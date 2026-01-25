@@ -243,7 +243,6 @@ Grounded our choice of Dijkstra’s Algorithm and our cost function:
 
 Weight = -ln(P) + γ
 
-
 as a deterministic method to identify the most feasible sequence of intermediate milestones. It also highlights the need for actionable feedback, which we address via our Narrative LLM layer.
 
 ---
@@ -257,4 +256,4 @@ as a deterministic method to identify the most feasible sequence of intermediate
 Establishes that professional transitions are directional and asymmetric, for example, the difficulty of moving from Junior to Senior is mathematically distinct from the reverse.
 
 **Specific Algorithm:**  
-Justifies our Statistical Frequency Filtering through the principle of Revealed Comparative Advantage (RCA), ensuring that our system isolates unique "role-defining" skills rather than ubiquitous, non-informative generalities.
+Justifies our Statistical Frequency Filtering through the principle of Revealed Comparative Advantage (RCA), ensuring that our system isolates unique "role-defining" skills rather than ubiquitous, non-informative generalities..

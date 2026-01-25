@@ -1,8 +1,7 @@
 # WannaBe  
 ## Intelligent Career Transition Recommender
 
-WannaBe is an intelligent decision-support system designed to transform noisy, unstructured career histories into actionable, data-driven professional roadmaps.  
-By combining semantic role resolution, probabilistic graph modeling, and grounded LLM narration, WannaBe provides users with a clear and statistically validated path from their current role to their ultimate career goal.
+WannaBe is an intelligent decision-support system designed to transform noisy, unstructured career histories into actionable, data-driven professional roadmaps. By combining semantic role resolution, probabilistic graph modeling, large-scale skill extraction, and grounded LLM narration, WannaBe provides users with a clear and statistically validated path from their current role to their ultimate career goal.
 
 ---
 
@@ -10,83 +9,101 @@ By combining semantic role resolution, probabilistic graph modeling, and grounde
 
 ### The Problem
 
-Traditional career platforms focus on job listings or static employment histories. They lack tools for planning multi-step career transitions.  
-Users often know their destination role but struggle to identify the intermediate career hops and the specific skills required to reach it.
+Traditional career platforms focus on job listings or static employment histories. They lack tools for planning multi-step career transitions. Users often know their destination role but struggle to identify the intermediate career "hops" and the specific technical DNA required to reach it.
 
 ### The Solution
 
-WannaBe constructs a **Directed Transition Graph** from thousands of historical job transitions.  
-It resolves informal job titles into canonical professional roles using high-performance semantic vector search and computes the most efficient transition path between them.
+WannaBe constructs a Directed Transition Graph from thousands of historical job sequences. It resolves informal job titles into canonical professional roles using high-performance semantic vector search and computes the most efficient transition path between them.
 
 Each transition step is enriched with:
-- role-defining skills
-- transition probabilities
-- strategic explanations grounded in real-world professional data
+- Role-defining skills identified via Big Data processing.
+- Transition probabilities based on historical career moves.
+- Strategic explanations grounded in real-world professional data.
 
 ---
 
 ## Intelligent Design and Theoretical Foundation
 
-The system architecture is grounded in four major research pillars that justify its intelligent design.
+WannaBe’s architecture is grounded in four major research pillars that justify its algorithmic design.
 
-### 1. Relational Mobility  
-**Shalaby et al., 2018**  
-Career mobility is modeled as a directed graph of job-to-job transitions. Classical graph algorithms are applied to navigate professional states at scale.
+### 1. Relational Mobility (Shalaby et al., 2018)
 
-### 2. Skill-Centric Standardization  
-**Gugnani et al., 2018**  
-Skills, rather than inconsistent job titles, are treated as the fundamental units of career progression.
+Career mobility is modeled as a directed graph of job-to-job transitions. This relational structure allows the system to calculate transition probabilities and handle semantic rigidity through neural embeddings (Deep Learning Matchers), providing a scalable alternative to traditional keyword matching.
 
-### 3. Path Planning  
-**Ghosh et al., 2020**  
-Career progression is framed as an optimization problem, identifying the highest-probability sequence of career milestones.
+### 2. Skill-Centric Standardization (Gugnani et al., 2018)
 
-### 4. Asymmetric Transition Difficulty  
-**Dawson et al., 2021**  
-Career transitions are asymmetric. Forward and backward moves differ in feasibility and are justified through patterns of skill growth and professional overlap.
+Skills, rather than inconsistent job titles, are treated as the fundamental units of career progression. This theory ensures cross-organizational stability, allowing the system to bridge the gap between roles with different titles but identical technical requirements.
+
+### 3. Path Planning Optimization (Ghosh et al., 2020)
+
+Career progression is framed as a computational path planning problem. The system treats a career goal as a destination in a latent skill space and searches for the optimal sequence of intermediate "hops" to maximize the likelihood of reaching that goal.
+
+### 4. Asymmetric Transition Difficulty (Dawson et al., 2021)
+
+The system recognizes that transitions are directional and asymmetric. Moving from "Senior to Junior" is mathematically different from "Junior to Senior." We incorporate Revealed Comparative Advantage (RCA) logic to identify core competencies and ensure roadmaps reflect realistic labor market constraints.
 
 ---
 
 ## System Architecture
 
-### 1. Semantic Role Resolution (Entry Point)
+### Semantic Role Resolution
 
-To handle vocabulary mismatch in job titles, WannaBe uses **Sentence-BERT (all-MiniLM-L6-v2)** to encode job roles into 384-dimensional embeddings.
-
-A **FAISS** index enables near-instant mapping of free-text user input to canonical professional roles.
+To handle vocabulary mismatch in job titles, WannaBe uses Sentence-BERT (all-MiniLM-L6-v2) to encode job roles into 384-dimensional embeddings. A FAISS (Facebook AI Similarity Search) index enables near-instant mapping of free-text user input to our canonical professional roles.
 
 ---
 
-### 2. Graph-Based Pathfinding (Core Logic)
+### Graph-Based Pathfinding
 
-Career transitions are represented as edges in a **Directed Graph**, weighted by empirical transition probabilities.
+Career transitions are represented as edges in a directed graph, weighted by empirical probabilities.
 
-**Cost Function**
+Algorithm:  
+Dijkstra’s algorithm is used to compute the shortest path (highest probability).
+
+Cost Function:
 
 Weight = -ln(P) + γ
 
-Where:
-- `P` is the transition probability
-- `γ` is a regularization hyperparameter
 
-**Optimization Strategy**
-- Dijkstra’s algorithm is used to compute optimal paths
-- γ = 1.0 was selected to balance realism with path efficiency
-- This prevents overly long or statistically weak career paths
+Where:
+- P is the transition probability.
+- γ (set to 1.0) is a regularization hyperparameter that balances statistical realism with path efficiency, preventing overly long or weak roadmaps.
 
 ---
 
-### 3. Hybrid Strategic Narration (Interpretability Layer)
+## Automated Skill Extraction Pipeline (Big Data Processing)
 
-WannaBe combines deterministic data extraction with LLM-based explanation.
+The Skill Extractor is a PySpark-based pipeline responsible for identifying the "technical DNA" of every role. This ensures advice is grounded in market requirements rather than generic descriptions.
 
-- **Deterministic Skill Extraction**  
-  Skills are retrieved from curated CSV datasets
+### Mechanism
 
-- **Grounded LLM Narration**  
-  Gemini 2.5 Flash generates strategic explanations for each transition step, grounded strictly in graph statistics and skill overlap
+- NLP Pre-processing:  
+  Standardizes titles and descriptions using Spark NLP, removing noise and non-informative text.
 
-This hybrid approach ensures transparency, explainability, and narrative clarity.
+- Pattern-Based Extraction:  
+  Uses complex Regex and tokenization to identify technical competencies, tools, and methodologies.
+
+- Statistical Frequency Filtering:  
+  Implements the RCA principle by calculating skill frequency within job clusters. Only skills appearing above a specific threshold (e.g., the top 10 most frequent) are promoted to the final role_skills_list.csv.
+
+---
+
+## Hybrid Strategic Narration
+
+WannaBe addresses the "Interpretability Gap" identified in prior research (Ghosh et al., 2020) by combining deterministic data retrieval with generative narration. Unlike "black-box" systems, the AI Coach does not hallucinate career advice; it acts as a narrative interface for the statistical data calculated by the system's core engines.
+
+### Narrative Orchestration Algorithms
+
+- Deterministic Path Retrieval:  
+  The narrative layer first ingests the specific sequence of canonical roles generated by the Dijkstra Search and the corresponding Transition Probabilities $(-\ln(P) + \gamma)$.
+
+- RCA-Grounded Metadata Enrichment:  
+  For each transition "hop," the system queries the role_skills_list.csv to retrieve the top technical competencies. These skills are pre-validated via Revealed Comparative Advantage (RCA) logic, ensuring the explanation focuses on role-defining skills rather than generic requirements.
+
+- Automated Skill-Gap Mapping:  
+  For every step in the roadmap, the system performs a set-difference operation between the "Source Role Skills" and the "Target Role Skills." This algorithmically identifies the exact Skill Delta the user needs to bridge.
+
+- Constrained LLM Grounding:  
+  The identified path, skill-gaps, and transition weights are passed to the LLM (Gemini) through a strictly constrained prompt. By grounding the LLM in pre-computed CSV and Graph metadata, the system ensures that the "AI Coach" remains transparent, trustworthy, and entirely data-driven.
 
 ---
 
@@ -94,86 +111,91 @@ This hybrid approach ensures transparency, explainability, and narrative clarity
 
 ### Research and Development
 
-- `Graph_Creation_and_Searching.ipynb`  
-  Data cleaning, probability estimation, graph construction, and γ hyperparameter validation
+- Graph_Creation_and_Searching.ipynb  
+  Data cleaning, probability estimation, graph construction, and Dijkstra implementation.
 
-- `Semantic Similarity Search for Professional Roles.ipynb`  
-  Sentence-BERT benchmarking, FAISS index construction, and semantic retrieval evaluation
+- Semantic Similarity Search for Professional Roles.ipynb  
+  Sentence-BERT benchmarking and FAISS index construction.
+
+- skill_extractor.ipynb  
+  Large-scale skill extraction pipeline implemented with PySpark and Spark NLP.
 
 ---
 
-### Performance Artifacts
+### Performance Artifacts (The Models)
 
-- `wannabe_graph.pkl`  
-  Serialized directed transition graph
+- wannabe_graph.pkl  
+  Serialized directed transition graph with statistical weights.
 
-- `wannabe_index.bin`  
-  FAISS index for high-speed role resolution
+- wannabe_index.bin  
+  High-speed FAISS binary index for semantic search.
 
-- `canonical_roles.pkl`  
-  Canonical role mapping for index interpretation
+- canonical_roles.pkl  
+  Mapping of standardized job roles.
+
+- role_skills_list.csv  
+  Final output of the Spark pipeline mapping Roles → Skills.
 
 ---
 
 ### Application Implementation
 
-- `app.py`  
-  Flask orchestration layer managing:
-  - user input
-  - semantic resolution
-  - graph pathfinding
-  - skill extraction
-  - LLM narration
+- app.py  
+  Flask orchestration layer handling API requests.
 
-- `graph_logic.py`  
-  Core algorithmic logic for semantic search and graph traversal
+- graph_logic.py  
+  Core logic for FAISS search and graph pathfinding.
 
-- `static/`  
-  Frontend assets and interactive UI logic
-
-- `templates/`  
-  Flask HTML templates
+- static/ & templates/  
+  Frontend assets and interactive UI logic.
 
 ---
 
 ## Installation and Usage
+
 ### Prerequisites
 
 - Python 3.10 or higher  
-- Google Gemini API key stored in `.env`
+- Java 8+ (required for PySpark)  
+- Google Gemini API key  
 
 ---
 
 ### Setup
 
 Clone the repository:
-
 ```bash
 git clone https://github.com/shalev121/WannaBe-Project.git
 cd WannaBe-Project
-Install dependencies:
+```
 
+Install dependencies:
+```bash
 pip install -r requirements.txt
-Create a .env file in the project root:
+```
+
+Configure Environment: Create a .env file in the root directory:
 
 GEMINI_API_KEY=your_api_key_here
-Run the application:
 
+Run the Application:
 python app.py
-Access the UI:
 
+Access the UI:
 http://localhost:5000
-Academic Foundation
+
+## Academic Foundation
+
 This project is theoretically supported by the following works:
 
-Shalaby et al. (2018)
-Help Me Find a Job: A Graph-based Approach for Job Recommendation at Scale
+- **Shalaby et al. (2018):**  
+  *Help Me Find a Job: A Graph-based Approach for Job Recommendation at Scale.*
 
-Gugnani et al. (2018)
-Generating Unified Candidate Skill Graph for Career Path Recommendation
+- **Gugnani et al. (2018):**  
+  *Generating Unified Candidate Skill Graph for Career Path Recommendation.*
 
-Ghosh et al. (2020)
-Skill-based Career Path Modeling and Recommendation
+- **Ghosh et al. (2020):**  
+  *Skill-based Career Path Modeling and Recommendation.*
 
-Dawson et al. (2021)
-Skill-driven Recommendations for Job Transition Pathways
+- **Dawson et al. (2021):**  
+  *Skill-driven Recommendations for Job Transition Pathways.*

@@ -32,7 +32,7 @@ Users define their current role and target role either by selecting from standar
 
 ---
 
-![Semantic Matching Results](assets/screenshots/semantic_match.png)
+![Semantic Matching Results](assets/screenshots/semantic__match.png)
 
 When a role is not found directly, the system presents semantically similar roles ranked by cosine similarity, allowing users to select the most appropriate canonical role.
 

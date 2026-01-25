@@ -58,28 +58,6 @@ Each transition can be expanded to reveal the strategic rationale behind the ste
 
 For every transition, users can explore role-defining skills in depth. Each skill includes a definition, its importance for the transition, and curated learning resources to bridge the identified skill gap.
 
-## Intelligent Design and Theoretical Foundation
-
-WannaBe’s architecture is grounded in four major research pillars that justify its algorithmic design.
-
-### 1. Relational Mobility (Shalaby et al., 2018)
-
-Career mobility is modeled as a directed graph of job-to-job transitions. This relational structure allows the system to calculate transition probabilities and handle semantic rigidity through neural embeddings (Deep Learning Matchers), providing a scalable alternative to traditional keyword matching.
-
-### 2. Skill-Centric Standardization (Gugnani et al., 2018)
-
-Skills, rather than inconsistent job titles, are treated as the fundamental units of career progression. This theory ensures cross-organizational stability, allowing the system to bridge the gap between roles with different titles but identical technical requirements.
-
-### 3. Path Planning Optimization (Ghosh et al., 2020)
-
-Career progression is framed as a computational path planning problem. The system treats a career goal as a destination in a latent skill space and searches for the optimal sequence of intermediate "hops" to maximize the likelihood of reaching that goal.
-
-### 4. Asymmetric Transition Difficulty (Dawson et al., 2021)
-
-The system recognizes that transitions are directional and asymmetric. Moving from "Senior to Junior" is mathematically different from "Junior to Senior." We incorporate Revealed Comparative Advantage (RCA) logic to identify core competencies and ensure roadmaps reflect realistic labor market constraints.
-
----
-
 ## System Architecture
 
 ### Semantic Role Resolution
@@ -220,7 +198,7 @@ python app.py
 Access the UI:
 http://localhost:5000
 
-## Academic Foundation
+## Academic & Theoretical Foundation
 
 WannaBe is theoretically grounded in four seminal research papers that provide the mathematical and structural logic for our career transition algorithms.
 

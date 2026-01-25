@@ -186,16 +186,61 @@ http://localhost:5000
 
 ## Academic Foundation
 
-This project is theoretically supported by the following works:
+WannaBe is theoretically grounded in four seminal research papers that provide the mathematical and structural logic for our career transition algorithms.
 
-- **Shalaby et al. (2018):**  
-  *Help Me Find a Job: A Graph-based Approach for Job Recommendation at Scale.*
+---
 
-- **Gugnani et al. (2018):**  
-  *Generating Unified Candidate Skill Graph for Career Path Recommendation.*
+### 1. Relational Mobility and Deep Learning Matchers
 
-- **Ghosh et al. (2020):**  
-  *Skill-based Career Path Modeling and Recommendation.*
+**Shalaby et al. (2018):**  
+*Help Me Find a Job: A Graph-based Approach for Job Recommendation at Scale.*
 
-- **Dawson et al. (2021):**  
-  *Skill-driven Recommendations for Job Transition Pathways.*
+**Project Application:**  
+Provides the rationale for modeling professional mobility as a homogeneous directed graph of roles rather than a user-centric model.
+
+**Specific Algorithm:**  
+Justifies the use of Maximum Likelihood Estimation (MLE) to compute asymmetric transition probabilities and implements the Deep Learning Matcher (DLM) theory via Sentence-BERT to resolve semantic ambiguity and the "cold-start" problem in job titles.
+
+---
+
+### 2. Skill-Centric Standardization
+
+**Gugnani et al. (2018):**  
+*Generating Unified Candidate Skill Graph for Career Path Recommendation.*
+
+**Project Application:**  
+Establishes the theory that skills, not job titles, are the "unified building blocks" of career mobility.
+
+**Specific Algorithm:**  
+Informs our Skill Extraction Pipeline, which treats skills as first-class entities to solve the "Title Inflation" problem, where identical technical roles carry different names across different organizations.
+
+---
+
+### 3. Career Pathing as an Optimization Problem
+
+**Ghosh et al. (2020):**  
+*Skill-based Career Path Modeling and Recommendation.*
+
+**Project Application:**  
+Formulates career progression as a Computational Path Planning Problem toward a long-term goal rather than a single-hop recommendation.
+
+**Specific Algorithm:**  
+Grounded our choice of Dijkstra’s Algorithm and our cost function:
+
+Weight = -ln(P) + γ
+
+
+as a deterministic method to identify the most feasible sequence of intermediate milestones. It also highlights the need for actionable feedback, which we address via our Narrative LLM layer.
+
+---
+
+### 4. Asymmetric Transitions and Skill Importance (RCA)
+
+**Dawson et al. (2021):**  
+*Skill-driven Recommendations for Job Transition Pathways.*
+
+**Project Application:**  
+Establishes that professional transitions are directional and asymmetric, for example, the difficulty of moving from Junior to Senior is mathematically distinct from the reverse.
+
+**Specific Algorithm:**  
+Justifies our Statistical Frequency Filtering through the principle of Revealed Comparative Advantage (RCA), ensuring that our system isolates unique "role-defining" skills rather than ubiquitous, non-informative generalities.

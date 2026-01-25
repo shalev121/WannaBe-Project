@@ -22,6 +22,42 @@ Each transition step is enriched with:
 
 ---
 
+## Application Demo
+
+### Role Selection and Semantic Matching
+
+![Role Selection Screen](assets/screenshots/input_roles.png)
+
+Users define their current role and target role either by selecting from standardized roles or by using the Semantic AI Matcher, which resolves free-text input into canonical professional roles using vector similarity.
+
+---
+
+![Semantic Matching Results](assets/screenshots/semantic_match.png)
+
+When a role is not found directly, the system presents semantically similar roles ranked by cosine similarity, allowing users to select the most appropriate canonical role.
+
+---
+
+### Strategic Career Roadmap Generation
+
+![Career Roadmap Overview](assets/screenshots/roadmap_collapsed.png)
+
+The system generates a multi-step career roadmap using a probabilistic directed graph, presenting the optimal sequence of intermediate transitions toward the target role.
+
+---
+
+![Expanded Transition Explanation](assets/screenshots/roadmap_expanded.png)
+
+Each transition can be expanded to reveal the strategic rationale behind the step, explaining why the move is necessary and how it functions as a seniority or skill bridge.
+
+---
+
+### Skill Deep Dive and Learning Guidance
+
+![Skill Deep Dive Modal](assets/screenshots/skill_deep_dive.png)
+
+For every transition, users can explore role-defining skills in depth. Each skill includes a definition, its importance for the transition, and curated learning resources to bridge the identified skill gap.
+
 ## Intelligent Design and Theoretical Foundation
 
 WannaBe’s architecture is grounded in four major research pillars that justify its algorithmic design.

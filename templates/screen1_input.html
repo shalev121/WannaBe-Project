@@ -1,0 +1,99 @@
+{% extends "base.html" %}
+{% block title %}Plan Your Career Path{% endblock %}
+
+{% block content %}
+<div class="position-relative mb-4 mt-3">
+    <div class="position-absolute start-0 top-50 translate-middle-y">
+        <img src="{{ url_for('static', filename='images/icon_wannabe.png') }}"
+             alt="WannaBe logo" class="wb-logo-large">
+    </div>
+
+    <div class="text-center">
+        <h1 class="wb-title display-4 mb-2">Plan Your Career Path</h1>
+        <p class="wb-muted fs-5 mx-auto" style="max-width: 800px;">
+            WannaBe helps you reach your desired target role. Insert your current position and your goal to discover the most efficient career path mapped by our industry-standard graph.
+        </p>
+    </div>
+</div>
+
+<div class="row g-3 justify-content-center align-items-start">
+  <div class="col-12 col-lg-5">
+    <div class="wb-card">
+
+      <h2 class="h4 fw-bold mt-1 mb-1">Current Role</h2>
+    <p class="wb-muted mb-4 fs-5">Enter your starting point to help our AI map your current expertise onto our industry graph.</p>
+      <label class="small fw-bold wb-muted">Select from standard roles:</label>
+      <select class="form-select wb-soft mb-4" id="currentRoleSelect" onfocus="this.size=8" onblur="this.size=1;"
+              onclick="if(this.size==8 && this.value) { this.size=1; this.blur(); }">
+          <option value="" selected disabled>Select the role...</option>
+          {% for role in roles %}
+          <option value="{{ role }}">{{ role | title }}</option>
+          {% endfor %}
+      </select>
+
+
+      <hr class="my-4">
+      <h3 class="h6 fw-bold mb-2">Can't find your role? use our Semantic AI Matcher!</h3>
+
+    <div class="mb-1">
+    <p class="wb-muted mb-2 fs-6">
+        This tool finds positions in our database most related to your input by analyzing the semantic meaning of professional roles.
+    </p>
+    <p class="fw-bold wb-muted mb-0">Type your current target role in the field below</p>
+    </div>
+
+
+      <div class="input-group mt-0 mb-2">
+        <input type="text" class="form-control wb-soft" id="currentSimInput" placeholder="e.g. data analyst">
+        <button class="btn btn-primary" onclick="searchSimilar('current')">Search</button>
+      </div>
+      <div id="currentSimilarResults" class="mt-2"></div>
+    </div>
+  </div>
+
+  <div class="col-12 col-lg-5">
+    <div class="wb-card">
+      <h2 class="h4 fw-bold mt-1 mb-1">Target Role</h2>
+      <p class="wb-muted mb-4 fs-5">Define your career goal so we can calculate the most efficient path using optimized transitions.</p>
+        <label class="small fw-bold wb-muted">Select from standard roles:</label>
+      <select class="form-select wb-soft mb-4" id="targetRoleSelect" onfocus="this.size=8" onblur="this.size=1;"
+              onclick="if(this.size==8 && this.value) { this.size=1; this.blur(); }">
+          <option value="" selected disabled>Select the role...</option>
+          {% for role in roles %}
+          <option value="{{ role }}">{{ role | title }}</option>
+          {% endfor %}
+      </select>
+
+      <hr class="my-4">
+<h3 class="h6 fw-bold mb-2">Can't find your target? use our Semantic AI Matcher!</h3>
+
+<div class="mb-1">
+    <p class="wb-muted mb-2 fs-6">
+        This tool finds positions in our database most related to your input by analyzing the semantic meaning of professional roles.
+    </p>
+<p class="fw-bold wb-muted mb-0">Type your desired target role in the field below</p>
+
+
+</div>
+
+<div class="input-group mt-0 mb-2">
+  <input type="text" class="form-control wb-soft" id="targetSimInput" placeholder="e.g. data scientist">
+  <button class="btn btn-primary" onclick="searchSimilar('target')">Search</button>
+</div>
+
+
+<div id="targetSimilarResults" class="mt-2"></div>
+
+    </div>
+  </div>
+</div>
+
+<div class="text-center mt-4 mb-2">
+  <div class="text-danger mb-3 fw-semibold" id="screen1Error" style="display:none;"></div>
+  <button class="wb-btn" id="findPathBtn">Find Career Path</button>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/screen1.js') }}"></script>
+{% endblock %}

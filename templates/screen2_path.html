@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block title %}Your Career Roadmap{% endblock %}
+
+{% block content %}
+<div class="container wb-container mt-3">
+    <div class="position-relative mb-4">
+        <div class="position-absolute start-0 top-50 translate-middle-y">
+            <img src="{{ url_for('static', filename='images/icon_wannabe.png') }}"
+                 alt="WannaBe logo" class="wb-logo-large">
+        </div>
+
+        <div class="text-center">
+            <h1 class="wb-title display-4 mb-2">Your Career Roadmap</h1>
+            <p class="wb-muted fs-5 mx-auto" id="pathSummaryText" style="max-width: 800px;">
+                Calculating your optimal journey...
+            </p>
+        </div>
+    </div>
+
+    <div id="verticalPathContainer" class="mx-auto" style="max-width: 500px;">
+        </div>
+
+    <div class="text-center mt-4 mb-5">
+    <button class="wb-btn px-5" id="explainBtn">
+        View Detailed Breakdown
+    </button>
+    <div class="mt-4">
+        <a href="/" class="wb-link text-decoration-none">← Back to modify my career goal</a>
+    </div>
+</div>
+
+
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/screen2.js') }}"></script>
+{% endblock %}

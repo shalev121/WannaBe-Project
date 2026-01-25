@@ -1,0 +1,388 @@
+.wb-container {
+  max-width: 1500px;
+    padding-top: 10px !important; /* Forces the entire app content up */
+    margin-left: auto;
+    margin-right: auto;
+     padding-bottom: 0 !important;
+}
+
+.body {
+    font-size: 16px;
+}
+
+label.wb-muted {
+    font-size: 16px !important;
+    font-weight: 700 !important;
+}
+
+.wb-card {
+    background: white;
+    border-radius: 24px;
+    box-shadow: 0 14px 30px rgba(20, 60, 120, 0.12);
+    padding: 25px 45px 25px 45px;
+    height: 100%;
+    position: relative;
+    overflow: visible !important;
+    z-index: 10; /* High z-index to ensure buttons are clickable */
+    pointer-events: auto; /* Explicitly allow clicks here */
+}
+
+
+
+.wb-bg {
+  min-height: 100vh;
+  /* Shifted the original colors to be about 10% deeper */
+  background: radial-gradient(circle at 80% 10%, #81b4eb 0%, #b3d7ff 36%, #d1e7ff 72%, #daedff 100%);
+}
+
+
+
+.wb-panel {
+  background: rgba(255, 255, 255, 0.92);
+  border-radius: 44px;
+  box-shadow: 0 18px 44px rgba(20, 60, 120, 0.14);
+  padding: 34px;
+}
+
+
+
+.wb-soft {
+  background: rgba(160, 200, 245, 0.28);
+  border: 1px solid rgba(70, 120, 200, 0.18);
+  border-radius: 14px;
+}
+
+.wb-btn {
+  border: 0;
+  border-radius: 999px;
+  padding: 16px 45px;      /* Increased padding for a larger look */
+  font-weight: 800;
+  font-size: 26px;         /* Increased from 20px for better visibility */
+  color: white;
+  background: #0052cc;
+    /*background: linear-gradient(90deg, #3a86ff 0%, #1a66ff 100%);*/
+  /*box-shadow: 0 18px 34px rgba(58, 134, 255, 0.25);*/
+    box-shadow: 0 12px 24px rgba(0, 82, 204, 0.3);
+  transition: transform 0.2s ease;
+}
+
+
+
+.wb-btn:hover {
+    background: #003d99;
+    transform: translateY(-2px);
+    box-shadow: 0 15px 30px rgba(0, 61, 153, 0.4);
+}
+
+
+
+/* Changed from semi-transparent blue to solid black for high contrast */
+.wb-muted {
+  color: #000000 !important;
+    font-size: 16px !important;
+  line-height: 1.6;
+}
+
+/* Update standard role labels */
+label.small {
+    font-size: 16px !important;
+}
+
+.wb-link {
+  color: #1b2a41;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.wb-step-header {
+  border-radius: 18px;
+  padding: 18px 20px;
+}
+
+.wb-tag {
+  display: inline-block;
+  padding: 14px 18px;
+  border-radius: 18px;
+  background: rgba(160, 200, 245, 0.36);
+  border: 1px solid rgba(70, 120, 200, 0.16);
+  cursor: pointer;
+  user-select: none;
+  min-width: 160px;
+  text-align: center;
+}
+
+
+/* Container that holds both the Logo and the Title */
+.wb-header-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 30px;
+  margin-bottom: 50px;
+  padding-left: 20px;
+    pointer-events: none;
+}
+
+.wb-header {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  z-index: 1000;
+  pointer-events: none;
+}
+
+/* Keep the logo large but contained */
+.wb-logo {
+    width: 240px;
+    height: auto;
+    object-fit: contain;
+}
+
+
+.wb-page-header {
+    height: 0;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+
+.wb-title {
+    margin: 0 !important;
+    font-weight: 800 !important;
+    white-space: nowrap;
+    display: inline-block; /* Helps with precise centering */
+}
+
+
+.start-0 {
+    left: 100px !important; /* Matches the internal padding of your cards */
+}
+
+.wb-logo-large {
+    width: 220px; /* Increased as requested to keep it prominent */
+    height: auto;
+    object-fit: contain;
+    /* Remove any forced center alignment from previous flex rules */
+}
+
+.d-flex.align-items-center {
+    display: flex;
+    align-items: center; /* Vertical alignment */
+    justify-content: center; /* Horizontal centering */
+}
+main.py-5 {
+    padding-top: 0 !important;
+}
+main {
+    padding-top: 0 !important;
+}
+
+.wb-node-vertical {
+    background: #fff;
+    border-radius: 12px;
+    margin-bottom: 5px;
+    transition: all 0.3s ease;
+}
+
+.wb-node-vertical:hover {
+    transform: scale(1.02);
+}
+
+.jump-arrow-line {
+    width: 2px;
+    height: 60px;
+    background: repeating-linear-gradient(
+        to bottom,
+        #3a86ff,
+        #3a86ff 5px,
+        transparent 5px,
+        transparent 10px
+    );
+    margin: 0 auto;
+}
+
+.prob-badge {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #3a86ff;
+    color: white;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    z-index: 10;
+    white-space: nowrap;
+}
+
+.badge.rounded-pill {
+    font-size: 16px !important;
+    /* Soft blue background with professional blue text */
+    background-color: rgba(160, 200, 245, 0.36) !important;
+    color: #1a66ff !important;
+    padding: 6px 12px;
+    font-weight: 700;
+}
+
+
+.wb-step-card {
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    border: 1px solid #e9ecef !important;
+}
+
+.wb-step-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08) !important;
+    border-color: #3a86ff !important;
+}
+
+.wb-step-card .bg-light {
+    background-color: #f8f9fa !important;
+    transition: background-color 0.2s ease;
+}
+
+.wb-step-card .bg-light:hover {
+    background-color: #f0f4ff !important;
+}
+
+.wb-tag {
+    transition: all 0.2s ease;
+    background-color: #ffffff;
+    color: #3a86ff !important;
+    font-weight: 500;
+    font-size: 0.85rem;
+    border: 1px solid rgba(58, 134, 255, 0.2) !important;
+    cursor: pointer;
+    user-select: none;
+}
+
+.wb-tag:hover {
+    background-color: #3a86ff !important;
+    color: #ffffff !important;
+    border-color: #3a86ff !important;
+    transform: scale(1.05);
+}
+
+
+.bg-primary-soft {
+    background-color: rgba(58, 134, 255, 0.1);
+}
+
+.tracking-wider {
+    letter-spacing: 0.05em;
+}
+
+#skillResources li {
+    padding: 8px 12px;
+    margin-bottom: 8px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    border-left: 3px solid #3a86ff;
+    font-size: 0.95rem;
+}
+
+
+.spinner-border.text-primary {
+    width: 3rem;
+    height: 3rem;
+    border-width: 0.25em;
+    color: #3a86ff !important;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.wb-step-card {
+    animation: fadeIn 0.5s ease forwards;
+}
+
+.fw-bold {
+    font-weight: 700 !important;
+}
+
+.fs-6 {
+    font-size: 1rem !important;
+}
+
+
+select.form-select[size="8"] {
+    position: absolute;
+    left: 45px;
+    right: 45px;
+    width: auto !important;
+    z-index: 1000;
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+    border: 2px solid #3a86ff !important;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+select.form-select[size="8"] option {
+    padding: 10px 15px;
+    background-color: #ffffff;
+    cursor: pointer;
+}
+
+select.form-select[size="8"] option:hover {
+    background-color: #eef7ff !important;
+    color: #3a86ff !important;
+}
+
+select.form-select[size="8"] option:checked {
+    background-color: #3a86ff !important;
+    color: #ffffff !important;
+}
+
+@media (min-width: 992px) {
+    .row.justify-content-center .col-lg-5 {
+        flex: 0 0 40% !important;
+        max-width: 40% !important;
+    }
+}
+
+#currentSimilarResults, #targetSimilarResults {
+    display: block !important;
+    min-height: 20px;
+    color: #000 !important;
+    z-index: 150;
+    position: relative;
+}
+
+
+
+
+.input-group {
+    margin-top: 0 !important;
+    position: relative;
+    z-index: 110;
+    pointer-events: auto !important;
+}
+
+.btn-primary {
+    background-color: #1a66ff !important;
+    border: none;
+    font-size: 16px !important;
+    font-weight: 700;
+    color: #ffffff;
+    transition: background-color 0.2s ease;
+}
+
+.btn-primary:hover {
+    background-color: #0052cc !important;
+    cursor: pointer;
+}
+
+#screen1Error {
+    font-size: 16px !important;
+    font-weight: 700 !important;
+    text-align: center;
+    width: 100%;
+}

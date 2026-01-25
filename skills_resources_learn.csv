@@ -1,0 +1,731 @@
+Skill,Sources
+3D Modeling (SolidWorks),"Book: SolidWorks Bible, Course: SolidWorks 2024 Essential Training (LinkedIn Learning), Course: SolidWorks Beginners (Udemy), Doc: SolidWorks Official Tutorials, YouTube: GoEngineer"
+AI Analytics,"Book: AI for Data Science, Course: AI For Everyone (Coursera), Course: AI Analyst Professional Certificate (IBM), Doc: Microsoft Azure AI Fundamentals, YouTube: StatQuest with Josh Starmer"
+AI-driven Control,"Book: Reinforcement Learning for Control, Course: Control Theory and AI (edX), Course: Deep Reinforcement Learning (Udemy), Doc: MATLAB Reinforcement Learning Toolbox, YouTube: Brian Douglas - Control Theory"
+API Development,"Book: API Design Patterns, Course: Rest API Design, Development & Management (Udemy), Course: Node.js API Development (Coursera), Doc: MDN Web Docs - APIs, YouTube: FreeCodeCamp API Tutorial"
+API Integration,"Book: Hands-On RESTful API Design, Course: Connecting to APIs (LinkedIn Learning), Course: Postman Essential Training (Udemy), Doc: Postman Documentation, YouTube: Traversy Media - API Integration"
+API Management,"Book: Mastering API Management, Course: API Management with Apigee (Coursera), Course: Azure API Management (Udemy), Doc: Google Cloud Apigee Docs, YouTube: MuleSoft Tutorials"
+AWS/Azure/GCP,"Book: Cloud Computing Architectures, Course: AWS Certified Solutions Architect (A Cloud Guru), Course: Azure Administrator Associate (Microsoft), Doc: AWS/Azure/GCP Official Documentation, YouTube: TechWithNana"
+Accessibility (WCAG),"Book: Accessibility for Everyone, Course: Web Accessibility (Udemy), Course: Introduction to Web Accessibility (edX), Doc: W3C WCAG Guidelines, YouTube: A11y Project"
+Acoustic Modeling,"Book: Fundamentals of Physical Acoustics, Course: Audio Engineering (Coursera), Course: Noise & Vibration (LinkedIn Learning), Doc: COMSOL Acoustics Module Docs, YouTube: Acoustic Fields"
+Actuarial Science,"Book: Actuarial Mathematics for Life Contingent Risks, Course: Actuarial Science Foundations (Coursera), Course: Exam P Prep (Coaching Actuaries), Doc: Society of Actuaries (SOA) Learning Path, YouTube: The Actuary Tutor"
+Advanced Troubleshooting,"Book: The Art of Troubleshooting, Course: CompTIA A+ Training (CBT Nuggets), Course: Problem Solving Techniques (Udemy), Doc: Microsoft Troubleshooting Docs, YouTube: Eli the Computer Guy"
+Aerodynamics,"Book: Fundamentals of Aerodynamics (Anderson), Course: Introduction to Aerodynamics (edX), Course: Aircraft Performance (Coursera), Doc: NASA Glenn Research Center, YouTube: Real Engineering"
+Aerospace Systems,"Book: Aerospace Systems Engineering, Course: Aerospace Engineering (MIT OpenCourseWare), Course: Systems Engineering (Coursera), Doc: ESA/NASA Technical Standards, YouTube: Scott Manley"
+Aesthetics,"Book: The Elements of Style in Design, Course: Visual Design Foundation (Coursera), Course: Graphic Design Theory (Udemy), Doc: Nielsen Norman Group Articles, YouTube: The Futur"
+Agile Leadership,"Book: Coaching Agile Teams, Course: Agile Leadership (Coursera), Course: Certified Agile Leadership (Scrum Alliance), Doc: Scrum Guide, YouTube: Mountain Goat Software"
+Agile Methodologies,"Book: Agile Retrospectives, Course: Agile with Atlassian Jira (Coursera), Course: Agile Crash Course (Udemy), Doc: Agile Manifesto, YouTube: Development That Pays"
+Agricultural Machinery,"Book: Principles of Farm Machinery, Course: Precision Agriculture (Coursera), Course: Agricultural Mechanics (Udemy), Doc: John Deere Technical Manuals, YouTube: Farm Equipment"
+Air Quality,"Book: Air Quality Management, Course: Air Pollution and Control (Coursera), Course: Environmental Monitoring (Udemy), Doc: EPA Air Quality Standards, YouTube: Environmental Science"
+Algorithm Development,"Book: Introduction to Algorithms (CLRS), Course: Algorithms Specialization (Coursera), Course: Data Structures and Algorithms (Udemy), Doc: GeeksforGeeks Algorithms, YouTube: Abdul Bari"
+Analog/Digital Design,"Book: Microelectronic Circuits (Sedra/Smith), Course: VLSI Fundamentals (Coursera), Course: Digital Systems (edX), Doc: Texas Instruments Learning Center, YouTube: EEVblog"
+Android/Linux,"Book: Android Programming (Big Nerd Ranch), Course: Linux System Administration (Coursera), Course: Android App Development (Udemy), Doc: Android Developers Documentation, YouTube: Derek Banas"
+Architectural Drafting (Revit),"Book: Mastering Revit Architecture, Course: Revit Architecture 2024 (Udemy), Course: BIM for Architects (LinkedIn Learning), Doc: Autodesk Revit Help, YouTube: Balkan Architect"
+Architecture Design,"Book: Architecture: Form, Space, and Order, Course: Architectural Design (Coursera), Course: Rhino 3D for Architects (Udemy), Doc: ArchDaily Case Studies, YouTube: 30X40 Design Workshop"
+Assembly Line Design,"Book: Assembly Line Design and Balancing, Course: Manufacturing Processes (edX), Course: Lean Manufacturing (Udemy), Doc: Toyota Production System Principles, YouTube: Gemba Academy"
+Asset Reliability,"Book: Reliability Centered Maintenance, Course: Asset Management (Coursera), Course: Maintenance Engineering (Udemy), Doc: ISO 55000 Standards, YouTube: Reliability Web"
+Attention to Detail,"Book: The Checklist Manifesto, Course: Critical Thinking (LinkedIn Learning), Course: Proofreading Skills (Udemy), Doc: Six Sigma Quality Articles, YouTube: Productivity Game"
+Audio Standards,"Book: The Audio Expert, Course: Audio Engineering (Coursera), Course: Sound Design for Games (Udemy), Doc: AES Standards, YouTube: Sound on Sound"
+Auditing,"Book: Auditing and Assurance Services, Course: Financial Auditing (Coursera), Course: Internal Auditing (Udemy), Doc: IFRS/GAAP Standards, YouTube: Accounting Stuff"
+Authoring Tools (Articulate),"Book: E-Learning Uncovered: Articulate Storyline, Course: Articulate Storyline 360 (Udemy), Course: Building Courses in Storyline (LinkedIn Learning), Doc: Articulate E-Learning Heroes, YouTube: Devlin Peck"
+AutoCAD,"Book: AutoCAD 2024 Essentials, Course: AutoCAD Beginner (Udemy), Course: AutoCAD 2D and 3D (Coursera), Doc: Autodesk AutoCAD Help, YouTube: SourceCAD"
+AutoCAD Electrical,"Book: AutoCAD Electrical Handbook, Course: AutoCAD Electrical (Udemy), Course: Electrical Design with AutoCAD (LinkedIn Learning), Doc: Autodesk Knowledge Network, YouTube: Electrical Design"
+Automated Processing,"Book: Automation, Production Systems, Course: Industrial Automation (edX), Course: Control Systems (Udemy), Doc: Siemens Industrial Automation, YouTube: RealPars"
+Automated Test Scripts,"Book: Test Automation Patterns, Course: Selenium WebDriver (Udemy), Course: Python Automation (Coursera), Doc: Selenium Documentation, YouTube: Automation Step by Step"
+Automated Testing Tools (Selenium),"Book: Selenium Design Patterns, Course: Selenium with Java (Udemy), Course: Testing with Selenium (Coursera), Doc: Selenium.dev, YouTube: Naveen AutomationLabs"
+Automated Welding,"Book: Welding Automation and Robotics, Course: Robotic Welding (Udemy), Course: Welding Technology (Coursera), Doc: American Welding Society (AWS), YouTube: Weld.com"
+Automated Workflows,"Book: Business Process Automation, Course: Zapier/Make Automation (Udemy), Course: Workflow Management (Coursera), Doc: Microsoft Power Automate Docs, YouTube: Keep Productive"
+Automation,"Book: Automated Reasoning, Course: Robotics and Automation (Coursera), Course: Industrial Automation (Udemy), Doc: IEEE Robotics and Automation Society, YouTube: Engineering Mindset"
+Automation Design,"Book: Design of Automatic Machinery, Course: Mechatronics Design (edX), Course: Automation Engineering (Udemy), Doc: Rockwell Automation Library, YouTube: Design World"
+Automation Software,"Book: Software Automation Testing, Course: Jenkins/Docker/Kubernetes (Coursera), Course: UI Path RPA (Udemy), Doc: Ansible/Terraform Documentation, YouTube: TechWorld with Nana"
+Automotive Systems,"Book: Automotive Engineering Fundamentals, Course: Hybrid & Electric Vehicles (edX), Course: Car Mechanics (Udemy), Doc: SAE International, YouTube: Engineering Explained"
+Autonomous Vehicles,"Book: Self-Driving Cars, Course: Self-Driving Car Specialization (Coursera), Course: Autonomous Systems (Udemy), Doc: Waymo/Tesla Research Blogs, YouTube: Two Minute Papers"
+Aviation Regulations,"Book: Federal Aviation Regulations (FAR/AIM), Course: Aviation Law (Coursera), Course: Aviation Safety (Udemy), Doc: FAA Regulations, YouTube: FlightSafety"
+Aviation Regulations (EASA/FAA),"Book: EASA Part 66, Course: FAA Regulation Training (Udemy), Course: European Aviation Rules (edX), Doc: EASA/FAA Official Sites, YouTube: Mentour Pilot"
+Aviation Safety,"Book: Commercial Aviation Safety, Course: Aviation Safety Management (Coursera), Course: Flight Safety Training (Udemy), Doc: ICAO Safety Standards, YouTube: Safety First"
+Avionics,"Book: Avionics Systems and Design, Course: Aircraft Electronics (Udemy), Course: Avionics Engineering (Coursera), Doc: Honeywell Aerospace Technical Support, YouTube: Avionics News"
+B2B Negotiation,"Book: Getting to Yes, Course: Strategic Negotiation (Coursera), Course: B2B Sales Negotiation (Udemy), Doc: Harvard Program on Negotiation, YouTube: Chris Voss"
+BI Strategy,"Book: Business Intelligence Roadmap, Course: BI Professional Certificate (IBM), Course: Strategic BI (Udemy), Doc: Tableau/PowerBI Learning Paths, YouTube: Guy in a Cube"
+BIM,"Book: BIM Handbook, Course: BIM Fundamentals (Coursera), Course: Building Information Modeling (Udemy), Doc: BIM Level 2 Standards, YouTube: Autodesk Construction Cloud"
+Back-end Logic,"Book: Designing Data-Intensive Applications, Course: Server-side Development (Coursera), Course: Back-end Web Development (Udemy), Doc: Node.js/Django Documentation, YouTube: Hussein Nasser"
+Back-end Programming,"Book: Clean Code, Course: Python/Java Backend (Coursera), Course: Go Backend Masterclass (Udemy), Doc: MDN Web Docs - Backend, YouTube: Programming with Mosh"
+Backup/Recovery,"Book: Disaster Recovery Handbook, Course: Data Backup and Storage (Coursera), Course: Backup Strategy for SysAdmins (Udemy), Doc: Veeam/AWS Backup Docs, YouTube: NetworkChuck"
+Barcode/RFID Integration,"Book: RFID Sourcebook, Course: Automatic Identification (Udemy), Course: Supply Chain Automation (Coursera), Doc: GS1 Standards, YouTube: Zebra Technologies"
+Big Data Frameworks (Spark/Hadoop),"Book: Spark: The Definitive Guide, Course: Big Data Specialization (Coursera), Course: Spark and Hadoop Masterclass (Udemy), Doc: Apache Spark Docs, YouTube: DataBricks"
+Bio-manufacturing,"Book: Bioprocess Engineering Principles, Course: Bio-manufacturing (edX), Course: Biotechnology (Udemy), Doc: NIH Bio-manufacturing Research, YouTube: Bioprocessing University"
+Biological Treatment,"Book: Biological Wastewater Treatment, Course: Water Management (Coursera), Course: Bioreactor Design (Udemy), Doc: EPA Wastewater Guidelines, YouTube: Practical Engineering"
+Biomechanics,"Book: Biomechanics of Sport and Exercise, Course: Introduction to Biomechanics (Coursera), Course: Human Motion Analysis (Udemy), Doc: International Society of Biomechanics, YouTube: Institute of Human Anatomy"
+Bioprocess Design,"Book: Bioprocess Engineering, Course: Bioprocess Development (Coursera), Course: Bioreactor Engineering (Udemy), Doc: Sartorius Bioprocess Solutions, YouTube: Bioprocess Hub"
+Blueprint Interpretation,"Book: Print Reading for Industry, Course: Blueprint Reading (Udemy), Course: Construction Drawing Analysis (LinkedIn Learning), Doc: ANSI/ASME Drafting Standards, YouTube: Construction Drawings 101"
+Boiler Operation,"Book: Boiler Operator's Guide, Course: Steam Boiler Operation (Udemy), Course: Stationary Engineering (Coursera), Doc: ASME Boiler & Pressure Vessel Code, YouTube: The Engineering Mindset"
+Bottleneck Analysis,"Book: The Goal (Goldratt), Course: Operations Management (Coursera), Course: Process Improvement (Udemy), Doc: Theory of Constraints Handbook, YouTube: Lean Enterprise Institute"
+Budget Management,"Book: Financial Management for Managers, Course: Budgeting and Forecasting (Coursera), Course: Project Budgeting (Udemy), Doc: Investopedia - Budgeting, YouTube: Finance Strategists"
+Budgetary Constraints,"Book: Budgeting for Projects, Course: Financial Planning (Coursera), Course: Project Cost Management (Udemy), Doc: Project Management Institute (PMI) Docs, YouTube: ProjectManager"
+Bug Tracking,"Book: Testing Computer Software, Course: Jira Bug Tracking (Udemy), Course: Software Testing (Coursera), Doc: Atlassian Jira Documentation, YouTube: Testing Academy"
+Building Automation,"Book: Building Automation: Control Devices, Course: Smart Building Technology (Udemy), Course: HVAC Controls (Coursera), Doc: ASHRAE Guidelines, YouTube: Smart Buildings Academy"
+Building Codes,"Book: International Building Code (IBC), Course: Understanding Building Codes (Udemy), Course: Architecture Regulations (Coursera), Doc: ICC International Code Council, YouTube: Matt Risinger"
+Building Information Modeling (BIM),"Book: BIM and Construction Management, Course: Revit for BIM (Udemy), Course: BIM Strategy (Coursera), Doc: ISO 19650 Standards, YouTube: BIM Corner"
+Buoyancy,"Book: Fluid Mechanics (White), Course: Marine Engineering (edX), Course: Basic Physics (Udemy), Doc: NASA Buoyancy Principles, YouTube: Science Channel"
+Business Continuity,"Book: Business Continuity Management, Course: Disaster Recovery (Coursera), Course: Business Resilience (Udemy), Doc: ISO 22301 Standard, YouTube: Continuity Central"
+Business Process Modeling,"Book: BPMN Method and Style, Course: Business Process Mapping (Udemy), Course: Operations Excellence (Coursera), Doc: OMG BPMN Specification, YouTube: Lucidchart"
+C++,"Book: The C++ Programming Language (Stroustrup), Course: C++ Nanodegree (Udacity), Course: Beginning C++ Programming (Udemy), Doc: Cppreference.com, YouTube: The Cherno"
+C++/C#,"Book: Programming: Principles and Practice using C++, Course: C# and C++ Game Development (Udemy), Course: Object Oriented Programming (Coursera), Doc: Microsoft Learn C# / C++, YouTube: Brackeys"
+C/C++,"Book: The C Programming Language (K&R), Course: Embedded Systems with C (Udemy), Course: System Programming in C (Coursera), Doc: GNU C Library Manual, YouTube: Low Level Learning"
+CAD,"Book: Engineering Drawing and Design, Course: CAD Design (Coursera), Course: Fusion 360 (Udemy), Doc: Autodesk Knowledge Network, YouTube: Product Design Online"
+CAD Design,"Book: CAD/CAM Theory and Practice, Course: 3D CAD Design (Udemy), Course: Professional CAD (LinkedIn Learning), Doc: SolidWorks/Revit Documentation, YouTube: CAD CAM Tutorials"
+CAD/CAM,"Book: Mastering CAD/CAM, Course: Fusion 360 CAM (Udemy), Course: CNC & CAD/CAM (Coursera), Doc: Mastercam University, YouTube: Titans of CNC"
+CAD/CAM Software,"Book: Computer-Aided Manufacturing, Course: Mastercam for Beginners (Udemy), Course: CAM for Production (Coursera), Doc: Autodesk Fusion 360 Help, YouTube: CAMWorks"
+CAM Software,"Book: Principles of CAM, Course: CNC Machining with CAM (Udemy), Course: Advanced CAM (LinkedIn Learning), Doc: HSMWorks Help, YouTube: NYCNC"
+CFD,"Book: Computational Fluid Dynamics (Versteeg), Course: Introduction to CFD (edX), Course: Ansys Fluent (Udemy), Doc: SimScale Documentation, YouTube: Fluid Mechanics 101"
+CNC Programming,"Book: CNC Programming Handbook, Course: G-Code Masterclass (Udemy), Course: CNC Machining (LinkedIn Learning), Doc: Fanuc Programming Manual, YouTube: Titans of CNC Academy"
+CNC Wood Processing,"Book: CNC Woodworking, Course: CNC for Woodworkers (Udemy), Course: VCarve Pro Essentials (LinkedIn Learning), Doc: Vectric Documentation, YouTube: Myers Woodshop"
+CRM,"Book: Salesforce For Dummies, Course: CRM Fundamentals (Coursera), Course: Salesforce Administrator (Udemy), Doc: Salesforce/HubSpot Trailhead, YouTube: Salesforce Support"
+CSS Animations,"Book: CSS Animations and Transitions, Course: Advanced CSS (Udemy), Course: CSS Animation (Coursera), Doc: MDN CSS Animations, YouTube: Kevin Powell"
+CSS3,"Book: CSS Secrets (Lea Verou), Course: CSS Masterclass (Udemy), Course: Responsive Design (Coursera), Doc: W3Schools CSS3, YouTube: Web Dev Simplified"
+Capacity Planning,"Book: The Art of Capacity Planning, Course: Cloud Infrastructure Planning (Coursera), Course: Operations Planning (Udemy), Doc: VMware Capacity Planning Guide, YouTube: AWS Training"
+Carbon Reduction,"Book: Net Zero: How We Stop Causing Climate Change, Course: Sustainability (Coursera), Course: Carbon Footprint Management (Udemy), Doc: Greenhouse Gas Protocol, YouTube: Climate Town"
+Certification Standards,"Book: Quality Management Systems, Course: ISO 9001 Lead Auditor (Udemy), Course: Certification Auditing (Coursera), Doc: ISO Official Standards, YouTube: Quality Gurus"
+Certification Testing,"Book: Software Testing Foundations, Course: ISTQB Foundation Level (Udemy), Course: Professional Testing (Coursera), Doc: ISTQB.org, YouTube: Testing Academy"
+Channel Marketing,"Book: Channel Management, Course: Partner Marketing Strategy (Coursera), Course: Channel Sales (Udemy), Doc: HubSpot Channel Marketing Guide, YouTube: DemandGen"
+Chemical Engineering,"Book: Perry's Chemical Engineers' Handbook, Course: Chemical Engineering (MIT OCW), Course: Process Engineering (Udemy), Doc: AIChE Standards, YouTube: The Chemical Engineer"
+Chemical Processing,"Book: Elementary Principles of Chemical Processes, Course: Industrial Chemistry (Coursera), Course: Process Control (Udemy), Doc: Chemical Processing Magazine, YouTube: LearnChemE"
+Chemical Properties,"Book: Physical Chemistry (Atkins), Course: Chemistry Specialization (Coursera), Course: General Chemistry (Udemy), Doc: PubChem (NIH), YouTube: Tyler DeWitt"
+Chemical Reactions,"Book: Chemical Reaction Engineering, Course: Reaction Kinetics (Coursera), Course: Organic Chemistry (Udemy), Doc: ChemGuide UK, YouTube: Organic Chemistry Tutor"
+Chemical Treatment,"Book: Handbook of Chemical Treatment, Course: Water Treatment Processes (Coursera), Course: Industrial Chemicals (Udemy), Doc: Water Environment Federation, YouTube: Engineering Mindset"
+Chip Architecture,"Book: Computer Architecture (Hennessy/Patterson), Course: VLSI Design (Coursera), Course: Digital Logic Design (Udemy), Doc: Intel/ARM Technical Manuals, YouTube: Asianometry"
+Circuit Analysis,"Book: Engineering Circuit Analysis (Hayt), Course: Circuit Theory (Coursera), Course: Electric Circuits (Udemy), Doc: All About Circuits, YouTube: Michel van Biezen"
+Circuit Design,"Book: The Art of Electronics, Course: PCB Design (Udemy), Course: Integrated Circuit Design (Coursera), Doc: Altium Academy, YouTube: GreatScott!"
+Circuit Simulation,"Book: SPICE for Power Electronics, Course: LTspice Essentials (Udemy), Course: Simulation in Electronics (Coursera), Doc: LTspice Documentation, YouTube: Robert Feranec"
+Cisco/Juniper Systems,"Book: CCNA Certification Guide, Course: Cisco CCNA (Udemy), Course: Juniper JNCIA (Coursera), Doc: Cisco Learning Network, YouTube: NetworkChuck"
+Civil Engineering,"Book: Civil Engineering Handbook, Course: Structural Engineering (Coursera), Course: Civil Engineering Basics (Udemy), Doc: ASCE Standards, YouTube: Practical Engineering"
+Client Coordination,"Book: Managing the Professional Service Firm, Course: Client Management (Coursera), Course: Project Communication (Udemy), Doc: PMI Body of Knowledge, YouTube: ProjectManager"
+Client Relations,"Book: How to Win Friends and Influence People, Course: Relationship Management (Coursera), Course: CRM for Sales (Udemy), Doc: Salesforce Customer Success, YouTube: Vanessa Van Edwards"
+Cloud Integration,Book: Enterprise Integration Patterns; Course: Cloud Integration with Azure (Udemy); Course: MuleSoft Integration (Coursera); Doc: AWS AppSync Documentation; YouTube: MuleSoft Videos
+Cloud Networking,Book: Cloud Networking: Understanding Cloud-based Data Center Networks; Course: AWS Certified Advanced Networking (A Cloud Guru); Course: Google Cloud Networking (Coursera); Doc: Azure Virtual Network Documentation; YouTube: NetworkChuck
+Cloud Security,Book: CSA Guide to Cloud Computing; Course: Cloud Security Professional (CCSP) (Udemy); Course: AWS Security Speciality (Coursera); Doc: Cloud Security Alliance (CSA) Guides; YouTube: SANS Cloud Security
+Cloud-Native Design,Book: Cloud Native Patterns; Course: Cloud Native Development (edX); Course: Kubernetes and Cloud Native (Udemy); Doc: CNCF Landscape; YouTube: TechWorld with Nana
+Coating Technology,Book: Coating Technology Handbook; Course: Introduction to Surface Engineering (Coursera); Course: Paints and Coatings (Udemy); Doc: NACE International Standards; YouTube: The Coatings Expert
+Cold Chain Management,"Book: Cold Chain Management: Strategy, Technology & Applications; Course: Supply Chain Logistics (Coursera); Course: Cold Chain Logistics (Udemy); Doc: IATA Perishable Cargo Regulations; YouTube: Global Cold Chain Alliance"
+Color Grading,Book: Color Correction Handbook (Alexis Van Hurkman); Course: DaVinci Resolve Color Grading (Udemy); Course: Color Grading for Editors (LinkedIn Learning); Doc: Blackmagic Design Resolve Manual; YouTube: Waqas Qazi
+Color Theory,Book: Interaction of Color (Josef Albers); Course: Color Theory for Designers (Coursera); Course: Graphic Design Foundation (Udemy); Doc: Adobe Color Guides; YouTube: The Futur
+Combustion Analysis,Book: Internal Combustion Engine Fundamentals; Course: Thermodynamics (Coursera); Course: Combustion Engineering (edX); Doc: EPA Combustion Source Methods; YouTube: Engineering Explained
+Communication Systems,Book: Communication Systems (Simon Haykin); Course: Digital Communications (Coursera); Course: Wireless Communications (Udemy); Doc: IEEE Communications Society; YouTube: The Engineering Mindset
+Compliance,Book: Compliance Management: A How-to Guide; Course: Regulatory Compliance (Coursera); Course: Corporate Governance and Compliance (Udemy); Doc: ISO 19600 Guidelines; YouTube: Compliance Week
+Compliance Testing,Book: The Compliance Testing Handbook; Course: Software Testing and Quality Assurance (Coursera); Course: Financial Compliance Testing (Udemy); Doc: NIST Compliance Frameworks; YouTube: ISTQB Academy
+Component Qualification,Book: Reliability Engineering Handbook; Course: Quality Management Systems (Coursera); Course: Electronic Component Reliability (Udemy); Doc: MIL-STD-883 Standards; YouTube: EEVblog
+Composite Engineering,Book: Analysis and Performance of Fiber Composites; Course: Introduction to Composites (Coursera); Course: Composite Materials (Udemy); Doc: NetComposites Guides; YouTube: Easy Composites
+Consensus Algorithms,Book: Mastering Bitcoin; Course: Blockchain Specialization (Coursera); Course: Distributed Systems (Udemy); Doc: Ethereum Whitepaper; YouTube: Simply Explained
+Consultative Sales,Book: The SPIN Selling Fieldbook; Course: Sales Strategy (Coursera); Course: Consultative Selling (Udemy); Doc: HubSpot Sales Blog; YouTube: Victor Antonio
+Consulting,Book: The McKinsey Way; Course: Management Consulting (Coursera); Course: Case Interview Prep (Udemy); Doc: Consulting Magazine; YouTube: Firm Learning
+Consumption Analysis,Book: Energy Consumption Analysis; Course: Data Analysis for Energy Efficiency (Coursera); Course: Power Usage Effectiveness (Udemy); Doc: IEA Energy Statistics; YouTube: Energy 101
+Continuous Improvement (Kaizen),Book: Gemba Kaizen; Course: Lean Six Sigma Green Belt (Coursera); Course: Kaizen Practitioner (Udemy); Doc: Lean Enterprise Institute; YouTube: Gemba Academy
+Contract Law,Book: Contracts: Cases and Doctrine; Course: Introduction to Contract Law (Coursera); Course: Business Law (Udemy); Doc: Uniform Commercial Code (UCC); YouTube: Legal Eagle
+Control Logic,Book: Programmable Logic Controllers (Petruzella); Course: PLC Programming (Udemy); Course: Industrial Control Systems (Coursera); Doc: Rockwell Automation User Manuals; YouTube: RealPars
+Control Systems,Book: Modern Control Engineering (Ogata); Course: Control Systems (Coursera); Course: Feedback Control Systems (Udemy); Doc: MATLAB Control System Toolbox; YouTube: Brian Douglas
+Control Theory,Book: Control Theory for Humans; Course: Dynamic Systems and Control (edX); Course: Linear Systems (Coursera); Doc: NASA Engineering Standards; YouTube: Steve Brunton
+Converter Topologies,Book: Fundamentals of Power Electronics; Course: Power Electronics (Coursera); Course: DC-DC Converter Design (Udemy); Doc: Texas Instruments Power Topologies Guide; YouTube: Katkim Show
+Cooling Solutions,Book: Heat Transfer: A Practical Approach; Course: Thermal Management of Electronics (Coursera); Course: HVAC Design (Udemy); Doc: ASHRAE Technical Resources; YouTube: The Engineering Mindset
+Corrosion Engineering,Book: Corrosion Engineering: Principles and Practice; Course: Corrosion Control (Coursera); Course: Cathodic Protection (Udemy); Doc: AMPP (formerly NACE) Standards; YouTube: Corrosion TV
+Corrosion Resistance,Book: Handbook of Corrosion Resistant Coatings; Course: Materials Science (Coursera); Course: Metallurgy for Non-Metallurgists (Udemy); Doc: ASM International Handbooks; YouTube: Materials Science 101
+Cross-Functional Leadership,Book: Team of Teams; Course: Leading Cross-Functional Teams (Coursera); Course: Collaborative Leadership (Udemy); Doc: Harvard Business Review Articles; YouTube: Simon Sinek
+Cross-Platform Development,Book: Flutter in Action; Course: React Native - The Practical Guide (Udemy); Course: Mobile App Development (Coursera); Doc: Flutter.dev / Reactnative.dev; YouTube: The Net Ninja
+Cryptographic Protocols,Book: Applied Cryptography; Course: Cryptography I (Coursera); Course: Network Security (Udemy); Doc: IETF RFCs (TLS/SSL); YouTube: Computerphile
+Cryptography,Book: The Code Book; Course: Cryptography Specialization (Coursera); Course: Intro to Cryptography (Udemy); Doc: NIST Cryptographic Standards; YouTube: Art of the Problem
+Customer Experience,Book: The Effortless Experience; Course: Customer Experience Strategy (Coursera); Course: UX/CX Foundation (Udemy); Doc: Qualtrics CX Resources; YouTube: Blake Morgan
+Customer Service,Book: Customer Service Training 101; Course: Customer Service Fundamentals (Coursera); Course: Excellence in Customer Service (Udemy); Doc: Zendesk Resource Library; YouTube: Shep Hyken
+Customer Support,Book: Delivering Happiness; Course: IT Support Professional Certificate (Google/Coursera); Course: Customer Support Mastery (Udemy); Doc: Intercom Customer Support Guide; YouTube: Help Scout
+Customs Regulations,Book: U.S. Customs Regulations Handbook; Course: International Trade and Logistics (Coursera); Course: Import/Export Compliance (Udemy); Doc: CBP.gov (U.S. Customs); YouTube: Logistics of Logistics
+Cybersecurity Auditing,Book: CISA Certified Information Systems Auditor Study Guide; Course: Cybersecurity Auditing (Coursera); Course: IS Audit Process (Udemy); Doc: ISACA Standards; YouTube: IT Audit Guy
+Cybersecurity Frameworks,Book: Cybersecurity Frameworks for Beginners; Course: IT Security Management (Coursera); Course: NIST Cybersecurity Framework (Udemy); Doc: NIST.gov / ISO 27001; YouTube: Simply Cyber
+DALI Protocols,Book: Lighting Control with DALI; Course: Smart Lighting Systems (Udemy); Course: Building Automation (Coursera); Doc: DALI Alliance (DiiA) Technical Specs; YouTube: DALI Alliance
+Dam Engineering,Book: Dam Engineering (Zheng Fu Kuan); Course: Geotechnical Engineering (Coursera); Course: Hydraulic Structures (Udemy); Doc: USACE Dam Safety Guidelines; YouTube: Practical Engineering
+Dashboard Governance,Book: Information Dashboard Design (Few); Course: Data Governance (Coursera); Course: BI Governance (Udemy); Doc: Tableau Blueprint; YouTube: Guy in a Cube
+Data Analytics,Book: Data Science for Business; Course: Google Data Analytics Professional (Coursera); Course: Data Analysis with Python (Udemy); Doc: Pandas Documentation; YouTube: Alex The Analyst
+Data Architecture,Book: The Data Warehouse Toolkit; Course: Data Engineering Foundations (Coursera); Course: Data Modeling for Data Architects (Udemy); Doc: DAMA-DMBOK; YouTube: Data Architecture Academy
+Data Cleansing,Book: Bad Data Handbook; Course: Data Cleaning with Python (Udemy); Course: Data Wrangling (Coursera); Doc: OpenRefine Documentation; YouTube: Data School
+Data Collection,Book: Data Collection: A Guide for Beginners; Course: Research Methods and Data Collection (Coursera); Course: Web Scraping with Python (Udemy); Doc: BeautifulSoup Documentation; YouTube: Sentdex
+Data Governance,"Book: Data Governance: How to Design, Deploy, and Sustain; Course: Data Governance Specialization (Coursera); Course: Enterprise Data Management (Udemy); Doc: Data Governance Institute; YouTube: LightsOnData"
+Data Integrity,Book: Data Integrity and Compliance; Course: Quality Assurance for Data (Coursera); Course: Database Security (Udemy); Doc: FDA Data Integrity Guidance; YouTube: Compliance Online
+Data Management,Book: DAMA-DMBOK: Data Management Body of Knowledge; Course: Data Management Strategy (Coursera); Course: SQL for Data Management (Udemy); Doc: Oracle Data Management Guides; YouTube: Intellipaat
+Data Privacy,Book: Data Privacy: A Field Guide; Course: GDPR Compliance (Coursera); Course: Certified Information Privacy Professional (CIPP) (Udemy); Doc: IAPP Privacy Library; YouTube: Privacy Kitchen
+Data Profiling,Book: Data Quality: The Accuracy Dimension; Course: Data Discovery and Profiling (Udemy); Course: Exploratory Data Analysis (Coursera); Doc: Informatica Data Profiling Guide; YouTube: CloverDX
+Data Quality Control,Book: Executing Data Quality Projects; Course: Data Quality Management (Coursera); Course: Data Quality Strategy (Udemy); Doc: ISO 8000 Standards; YouTube: Data Quality Guy
+Data Security,Book: Data Security and Privacy; Course: Cybersecurity for Data Science (Coursera); Course: Encryption and Data Protection (Udemy); Doc: Cloud Security Alliance Guides; YouTube: TechTarget
+Data Storytelling,Book: Storytelling with Data (Cole Nussbaumer Knaflic); Course: Data Visualization and Storytelling (Coursera); Course: The Art of Data Storytelling (Udemy); Doc: Tableau Storytelling Guides; YouTube: Storytelling with Data
+Data Strategy,Book: Data Strategy: How to Profit from a World of Big Data; Course: Data Strategy for Business (Coursera); Course: Executive Data Strategy (Udemy); Doc: Gartner Data & Analytics; YouTube: Bernard Marr
+Data Synchronization,Book: Distributed Systems: Principles and Paradigms; Course: Data Integration (Coursera); Course: Master Data Management (Udemy); Doc: AWS DataSync Documentation; YouTube: Confluent
+Data Visualization (Tableau/Power BI),Book: The Visual Display of Quantitative Information (Tufte); Course: Tableau Desktop Specialist (Udemy); Course: Microsoft Power BI Data Analyst (Coursera); Doc: Tableau / Power BI Documentation; YouTube: SQLBI
+Data Warehousing,Book: The Data Warehouse Lifecycle Toolkit; Course: Data Warehousing Specialization (Coursera); Course: Snowflake/Redshift Training (Udemy); Doc: Snowflake Documentation; YouTube: InterWorks
+Database Interoperability,Book: Principles of Distributed Database Systems; Course: Data Integration and Interoperability (Coursera); Course: Cross-Database Communication (Udemy); Doc: ODBC/JDBC Specifications; YouTube: Computerphile
+Database Management,Book: Database System Concepts; Course: Database Management Systems (Coursera); Course: SQL Masterclass (Udemy); Doc: PostgreSQL Documentation; YouTube: Programming with Mosh
+Database Tuning,Book: SQL Performance Explained; Course: MySQL Performance Tuning (Udemy); Course: Database Optimization (Coursera); Doc: Oracle SQL Tuning Guide; YouTube: Erik Darling Data
+Decentralized Systems,Book: Distributed Systems (Maarten van Steen); Course: Decentralized Applications (DApps) (Coursera); Course: P2P Networks (Udemy); Doc: IPFS Documentation; YouTube: Finematics
+Deep Learning,Book: Deep Learning (Ian Goodfellow); Course: Deep Learning Specialization (Coursera); Course: PyTorch for Deep Learning (Udemy); Doc: TensorFlow / PyTorch Docs; YouTube: 3Blue1Brown
+Design Patterns,Book: Design Patterns: Elements of Reusable Object-Oriented Software; Course: Software Design Patterns (Coursera); Course: Design Patterns in Java/Python (Udemy); Doc: Refactoring.Guru; YouTube: Christopher Okhravi
+Design for Manufacturing (DfM),Book: Design for Manufacturability Handbook; Course: Product Design and Manufacturing (Coursera); Course: DfM for Mechanical Engineers (Udemy); Doc: Autodesk DfM Guides; YouTube: Efficient Engineer
+DevOps Automation,Book: The Phoenix Project; Course: DevOps on AWS (Coursera); Course: CI/CD with Jenkins (Udemy); Doc: Azure DevOps Documentation; YouTube: TechWorld with Nana
+Die Design,Book: Die Design Handbook; Course: Sheet Metal Design (Coursera); Course: Tool and Die Design (Udemy); Doc: SME (Society of Manufacturing Engineers) Resources; YouTube: The Engineering ToolBox
+Digital Audio Workstations (DAW),Book: The Mixing Engineer's Handbook; Course: Ableton Live Masterclass (Udemy); Course: Pro Tools Foundation (Coursera); Doc: Avid Pro Tools Reference Guide; YouTube: In The Mix
+Digital Image Editing,Book: Adobe Photoshop Classroom in a Book; Course: Photoshop Masterclass (Udemy); Course: Graphic Design Foundation (Coursera); Doc: Adobe Photoshop Help; YouTube: Piximperfect
+Digital Preservation,Book: The Digital Document; Course: Digital Curation and Preservation (Coursera); Course: Archiving Fundamentals (Udemy); Doc: Library of Congress Sustainability of Digital Formats; YouTube: National Archives
+Digital Strategy,Book: Digital Strategy: A Guide to Digital Business Transformation; Course: Digital Competition (Coursera); Course: Strategic Digital Marketing (Udemy); Doc: McKinsey Digital Insights; YouTube: GaryVee
+Digital Transformation,Book: Driving Digital Strategy; Course: Digital Transformation Specialization (Coursera); Course: Leading Digital Transformation (Udemy); Doc: MIT Sloan Management Review; YouTube: HBR
+Digital Workflows,Book: Automate Your Busywork; Course: Workflow Automation with Zapier (Udemy); Course: Business Process Management (Coursera); Doc: ServiceNow Workflow Documentation; YouTube: Andy O'Neil
+Dimensional Modeling,Book: The Data Warehouse Toolkit (Kimball); Course: Data Modeling for BI (Coursera); Course: Dimensional Modeling Basics (Udemy); Doc: Kimball Group Methodology; YouTube: Into Data
+Disaster Recovery,Book: Principles of Incident Response and Disaster Recovery; Course: IT Disaster Recovery Planning (Udemy); Course: Business Continuity (Coursera); Doc: AWS Disaster Recovery Whitepaper; YouTube: NetworkChuck
+Distribution Infrastructure,Book: Electric Power Distribution Handbook; Course: Power Systems Engineering (Coursera); Course: Distribution Network Design (Udemy); Doc: IEEE Power & Energy Society; YouTube: Practical Engineering
+Drag Reduction,Book: Fluid-Dynamic Drag (Hoerner); Course: Aerodynamics (Coursera); Course: CFD for Drag Reduction (Udemy); Doc: NASA Glenn Research Center; YouTube: Real Engineering
+Drilling Simulation,Book: Fundamentals of Drilling Engineering; Course: Petroleum Engineering (Coursera); Course: Drilling Fluids and Simulation (Udemy); Doc: Schlumberger Simulation Software Docs; YouTube: Oil and Gas Training
+Durability,"Book: Product Reliability, Maintainability, and Supportability; Course: Reliability Engineering (Coursera); Course: Material Durability Analysis (Udemy); Doc: ASTM Testing Standards; YouTube: Engineering Explained"
+Durability Testing,Book: Mechanical Testing of Materials; Course: Fatigue and Fracture (edX); Course: Environmental Testing (Udemy); Doc: ISO 16750 Standards; YouTube: Test and Measurement
+Dynamic Processing,Book: The Recording Engineer's Handbook; Course: Mixing and Mastering (Coursera); Course: Compression and Dynamics (Udemy); Doc: Universal Audio Guides; YouTube: Recording Revolution
+ETL,Book: ETL Toolkit; Course: Data Engineering Foundations (Coursera); Course: Python for ETL (Udemy); Doc: Apache Airflow Documentation; YouTube: Seattle Data Guy
+ETL Processes,Book: Data Integration Strategies; Course: ETL and Data Pipelines (IBM/Coursera); Course: Informatica ETL Training (Udemy); Doc: Talend User Guides; YouTube: Data Engineering Academy
+Earth Engineering,Book: Geotechnical Engineering: Principles and Practices; Course: Soil Mechanics (Coursera); Course: Earthquake Engineering (Udemy); Doc: USGS Earthquake Hazards Program; YouTube: Practical Engineering
+Ecology/Botany Knowledge,Book: Botany for Gardeners; Course: Introduction to Ecology (Coursera); Course: Plant Biology (Udemy); Doc: Royal Botanic Gardens Resources; YouTube: Crime Pays But Botany Doesn't
+EdTech Frameworks,Book: Design for How People Learn; Course: Instructional Design Foundations (Coursera); Course: Learning Management Systems (Udemy); Doc: ISTE Standards; YouTube: Devlin Peck
+Efficiency Analysis,Book: Efficiency and Productivity Analysis; Course: Operations Research (Coursera); Course: Lean Process Analysis (Udemy); Doc: Six Sigma Guides; YouTube: Lean Enterprise Institute
+Electric Motors,Book: Electric Machinery Fundamentals (Chapman); Course: Electric Motors and Drives (Coursera); Course: Motor Control Systems (Udemy); Doc: ABB Motor Selection Guides; YouTube: The Engineering Mindset
+Electrical Circuitry,Book: Practical Electronics for Inventors; Course: Electrical Engineering: Circuit Analysis (Coursera); Course: Basic Electronics (Udemy); Doc: All About Circuits; YouTube: EEVblog
+Electrical Safety,Book: NFPA 70E: Standard for Electrical Safety in the Workplace; Course: Electrical Safety Training (Udemy); Course: OSHA Electrical Standards (Coursera); Doc: NFPA.org / OSHA.gov; YouTube: Jim Palam
+Electrical Transformation,Book: Transformer Engineering; Course: Power Transformers (Udemy); Course: Electric Power Systems (Coursera); Doc: IEEE Transformers Committee; YouTube: The Engineering Mindset
+Embedded Systems,Book: Making Embedded Systems (Elicia White); Course: Embedded Software and Hardware (Coursera); Course: Microcontroller Programming (Udemy); Doc: ARM / STM32 Documentation; YouTube: Low Level Learning
+Emissions Control,Book: Air Pollution Control Engineering; Course: Automotive Emissions (Coursera); Course: Environmental Engineering (Udemy); Doc: EPA Vehicle Emissions Guides; YouTube: Engineering Explained
+Emissions Standards,Book: Internal Combustion Engine Fundamentals; Course: Sustainability and Emissions (Coursera); Course: Global Emissions Standards (Udemy); Doc: Euro 6 / EPA Standards; YouTube: Climate Town
+Encryption,Book: Serious Cryptography; Course: Introduction to Applied Cryptography (Coursera); Course: Encryption and Hashing (Udemy); Doc: NIST FIPS Publications; YouTube: Computerphile
+Energy Auditing,Book: Handbook of Energy Audits; Course: Energy Auditor Professional (Udemy); Course: Energy Management (Coursera); Doc: DOE Energy Audit Guides; YouTube: Engineering Mindset
+Energy Balancing,Book: Principles of Energy Conversion; Course: Renewable Energy Systems (Coursera); Course: Smart Grid Technology (Udemy); Doc: NREL Technical Reports; YouTube: Energy 101
+Energy Efficiency,Book: Energy Efficiency: Concepts and Calculations; Course: Sustainability in Energy (Coursera); Course: Home Energy Efficiency (Udemy); Doc: Energy Star Program; YouTube: Matt Risinger
+Energy Efficiency Standards,Book: Energy Standards and Codes; Course: LEED Green Associate (Udemy); Course: Sustainable Architecture (Coursera); Doc: ASHRAE 90.1 Standard; YouTube: USGBC
+Energy Management,Book: Energy Management Handbook; Course: ISO 5001 Energy Management (Udemy); Course: Global Energy Business (Coursera); Doc: DOE Office of Energy Efficiency; YouTube: Schneider Electric
+Energy Modeling,Book: Energy Simulation in Building Design; Course: Building Energy Modeling (edX); Course: EnergyPlus Training (Udemy); Doc: EnergyPlus Documentation; YouTube: OpenStudio
+Energy Production (AEP),Book: Renewable Energy: Power for a Sustainable Future; Course: Wind Energy (Coursera); Course: Solar Energy (Udemy); Doc: IEA Renewables Report; YouTube: Real Engineering
+Energy Storage,"Book: Energy Storage: Fundamentals, Materials and Applications; Course: Battery Management Systems (Coursera); Course: Energy Storage Systems (Udemy); Doc: NREL Energy Storage Research; YouTube: Engineering Mindset"
+Energy Yield Modeling,Book: Solar Engineering of Thermal Processes; Course: Solar Energy Photovoltaic Systems (edX); Course: Wind Energy (Coursera); Doc: PVLib Documentation; YouTube: NREL Learning
+Engine Design,Book: Internal Combustion Engine Fundamentals (Heywood); Course: Internal Combustion Engines (Coursera); Course: Engine Design and Simulation (Udemy); Doc: SAE International Technical Papers; YouTube: Engineering Explained
+Engine Room Logging,Book: Marine Engineering Log; Course: Marine Engineering Operations (Udemy); Course: Shipboard Safety and Operations (Coursera); Doc: IMO MARPOL Regulations; YouTube: Casual Navigation
+Enterprise Application Integration,Book: Enterprise Integration Patterns; Course: Integration Architecture (Coursera); Course: MuleSoft Integration (Udemy); Doc: Azure Integration Services; YouTube: MuleSoft Videos
+Enterprise Architecture (TOGAF),"Book: The TOGAF Standard, 10th Edition; Course: TOGAF Foundation (Udemy); Course: Enterprise Architecture Specialization (Coursera); Doc: The Open Group Library; YouTube: Enterprise Architecture Radio"
+Entity-Relationship (ER) Modeling,Book: Database Design and Relational Theory; Course: Data Modeling and Database Design (Coursera); Course: SQL and ER Modeling (Udemy); Doc: Lucidchart ERD Guide; YouTube: Dr. Daniel Soper
+Environmental Compliance,Book: Environmental Compliance Handbook; Course: Environmental Management (Coursera); Course: OSHA/EPA Compliance (Udemy); Doc: EPA.gov Compliance Assistance; YouTube: Environmental Law Institute
+Environmental Impact Assessment,Book: Environmental Impact Assessment: A Practical Guide; Course: Sustainable Development (Coursera); Course: EIA Methodology (Udemy); Doc: World Bank EIA Guidelines; YouTube: United Nations Environment Programme
+Equalization,Book: The EQ and Compression Formula; Course: Audio Production Foundation (Coursera); Course: Mixing and Equalization (Udemy); Doc: Universal Audio Blog; YouTube: In The Mix
+Equipment Calibration,Book: The Calibration Handbook of Measuring Instruments; Course: Instrumentation and Control (Coursera); Course: Metrology and Calibration (Udemy); Doc: NIST Calibration Services; YouTube: Beamex
+Experimental Design,Book: Design and Analysis of Experiments (Montgomery); Course: Design of Experiments (Coursera); Course: Statistical Design (Udemy); Doc: NIST/SEMATECH e-Handbook of Statistical Methods; YouTube: JMP Software
+FMEA,Book: Failure Mode and Effects Analysis (FMEA); Course: Quality Engineering (Coursera); Course: FMEA Practitioner (Udemy); Doc: ASQ (American Society for Quality); YouTube: Six Sigma Academy
+Fabric Testing,Book: Fabric Testing (Jinlian Hu); Course: Textile Engineering (Coursera); Course: Apparel Quality Management (Udemy); Doc: ASTM International Textile Standards; YouTube: Textile School
+Factory Layout,Book: Manufacturing Facilities Design and Material Handling; Course: Operations Management (Coursera); Course: Lean Factory Design (Udemy); Doc: Autodesk Factory Design Utilities; YouTube: Lean Enterprise Institute
+Farm Tech,Book: Precision Agriculture for Sustainability; Course: Agricultural Technology (Coursera); Course: Digital Farming (Udemy); Doc: USDA Agricultural Research Service; YouTube: Future Farming
+Fashion Software,Book: Digital Fashion Design; Course: CLO 3D for Beginners (Udemy); Course: Adobe Illustrator for Fashion (Coursera); Doc: CLO 3D Official Manual; YouTube: 3D Fashion Design
+Feasibility Studies,Book: Feasibility Studies for Hotels and Hospitality; Course: Financial Planning (Coursera); Course: Project Feasibility Analysis (Udemy); Doc: Investopedia - Feasibility Study; YouTube: ProjectManager
+Fermentation,Book: The Art of Fermentation; Course: Brewing and Fermentation (Coursera); Course: Food Science and Fermentation (Udemy); Doc: Noma Guide to Fermentation; YouTube: Bon Appétit - It's Alive
+Fiber Optics,Book: Fiber Optics Installer's Guide; Course: Fiber Optic Communication (Coursera); Course: Fiber Optic Splicing (Udemy); Doc: The FOA (Fiber Optic Association); YouTube: Fiber Optic Association Channel
+Fiber-Optics,Book: Optical Fiber Communications (Keiser); Course: Photonics (edX); Course: Fiber Optic Technician (Udemy); Doc: IEEE Photonics Society; YouTube: Engineering Mindset
+Film Processing,Book: The Darkroom Cookbook; Course: Film Photography (Udemy); Course: Analog Film Processing (Coursera); Doc: Kodak Film Processing Manuals; YouTube: The Art of Photography
+Financial Modeling,Book: Investment Valuation (Damodaran); Course: Financial Modeling & Valuation (Udemy); Course: Excel Skills for Business (Coursera); Doc: Investopedia - Financial Modeling; YouTube: Aswath Damodaran
+Finite Element Analysis (FEA),Book: A First Course in the Finite Element Method; Course: Finite Element Analysis (Coursera); Course: ANSYS FEA (Udemy); Doc: ANSYS Help; YouTube: The Efficient Engineer
+Finite Element Method (FEM),Book: The Finite Element Method (Zienkiewicz); Course: Practical FEM (Udemy); Course: Structural Mechanics (Coursera); Doc: SimScale Documentation; YouTube: Steve Brunton
+Firewall Configuration,Book: The Firewall Guide; Course: Network Security with Cisco ASA (Udemy); Course: Palo Alto Firewall Configuration (Coursera); Doc: Cisco Security Docs; YouTube: NetworkChuck
+Firewall Management,Book: Network Security Bible; Course: CompTIA Security+ (Udemy); Course: Cloud Firewall Management (Coursera); Doc: Palo Alto Networks Documentation; YouTube: Simply Cyber
+Firmware Debugging,Book: Debugging: The 9 Indispensable Rules; Course: Embedded Systems Debugging (Udemy); Course: Microcontroller Systems (Coursera); Doc: ARM Cortex Debugging Guide; YouTube: Low Level Learning
+Firmware Protection,Book: Real-World Embedded Security; Course: Cybersecurity in Embedded Systems (Udemy); Course: Software Security (Coursera); Doc: NIST Guide to Firmware Security; YouTube: Black Hat
+Fishery Equipment,Book: Fishery Science: Methods and Applications; Course: Marine Biology and Fisheries (Coursera); Course: Commercial Fishing Equipment (Udemy); Doc: FAO Fishery Technology; YouTube: Marine Bio
+Flight Dynamics,Book: Flight Dynamics Principles (Cook); Course: Aircraft Performance (Coursera); Course: Flight Mechanics (edX); Doc: NASA Glenn Research Center; YouTube: Scott Manley
+Flight Mechanics,Book: Fundamentals of Flight (Anderson); Course: Aerospace Engineering (MIT OCW); Course: Aircraft Stability and Control (Udemy); Doc: FAA Pilot's Handbook; YouTube: Mentour Pilot
+Fluid Mechanics,Book: Fluid Mechanics (Munson); Course: Fluid Mechanics (Coursera); Course: Hydrodynamics (edX); Doc: Engineering Toolbox; YouTube: The Engineering Mindset
+Flutter,Book: Flutter in Action; Course: The Complete Flutter Development Bootcamp (Udemy); Course: Flutter & Dart (Coursera); Doc: Flutter.dev Docs; YouTube: Flutter Official
+Food Chemistry,Book: Fennema's Food Chemistry; Course: Food Science Specialization (Coursera); Course: Introduction to Food Chemistry (Udemy); Doc: FDA Food Ingredients; YouTube: ACS Reactions
+Food Safety,Book: Food Safety Management; Course: HACCP Plan and Implementation (Udemy); Course: Food Safety and Quality (Coursera); Doc: WHO Food Safety Standards; YouTube: Centers for Disease Control (CDC)
+Fuel Management,Book: Internal Combustion Engine Fundamentals; Course: Fuel Systems and Control (Coursera); Course: Automotive Engineering (Udemy); Doc: EPA Fuel Economy Standards; YouTube: Engineering Explained
+Fuel Tech,Book: Renewable Fuel Technologies; Course: Bioenergy and Biofuels (Coursera); Course: Alternative Fuels (Udemy); Doc: DOE Alternative Fuels Data Center; YouTube: Real Engineering
+G-code,Book: CNC Programming Handbook; Course: G-Code Masterclass (Udemy); Course: CNC Machining (Coursera); Doc: Fanuc Programming Manual; YouTube: Titans of CNC
+GDPR Knowledge,Book: GDPR: A Practical Guide; Course: GDPR Compliance (Coursera); Course: Data Privacy Professional (Udemy); Doc: GDPR.eu; YouTube: Privacy Kitchen
+GIS,Book: Getting to Know ArcGIS; Course: GIS Specialization (Coursera); Course: ArcGIS Online (Udemy); Doc: Esri Documentation; YouTube: GIS Geography
+GIS Mapping,Book: The ArcGIS Book; Course: QGIS for Beginners (Udemy); Course: Maps and Geospatial Revolution (Coursera); Doc: QGIS Documentation; YouTube: Hans van der Kwast
+Game Design,Book: The Art of Game Design (Schell); Course: Game Design Specialization (Coursera); Course: Complete Game Design Course (Udemy); Doc: Gamasutra Articles; YouTube: Game Maker's Toolkit
+Game Engines (Unity/Unreal),Book: Game Engine Architecture; Course: Unity Game Development (Udemy); Course: Unreal Engine 5 C++ (Coursera); Doc: Unity / Unreal Docs; YouTube: Brackeys
+Gas Refining,Book: Petroleum Refining: Technology and Economics; Course: Oil and Gas Engineering (Coursera); Course: Natural Gas Processing (Udemy); Doc: API (American Petroleum Institute); YouTube: Energy 101
+Generator Synchronization,Book: Electrical Machinery; Course: Power System Operations (Udemy); Course: Electric Power Systems (Coursera); Doc: IEEE Power & Energy Society; YouTube: Practical Engineering
+Geometric Dimensioning,Book: GD&T: Basic Fundamentals; Course: GD&T for Beginners (Udemy); Course: Mechanical Engineering Design (Coursera); Doc: ASME Y14.5 Standard; YouTube: The GD&T Hierarchy
+Geotechnical Analysis,Book: Geotechnical Engineering (Holtz); Course: Soil Mechanics (Coursera); Course: Geotechnical Foundation Design (Udemy); Doc: USACE Geotechnical Engineering; YouTube: Practical Engineering
+Good Manufacturing Practices (GMP),Book: GMP for Pharmaceutical Engineers; Course: GMP Compliance (Udemy); Course: Quality Management (Coursera); Doc: FDA.gov GMP Guidelines; YouTube: Compliance Online
+Green Engineering,"Book: Sustainable Engineering: Concepts, Design, and Case Studies; Course: Sustainable Development (Coursera); Course: Green Building and LEED (Udemy); Doc: USGBC LEED Standards; YouTube: USGBC"
+Green Technology,Book: The Clean Tech Revolution; Course: Renewable Energy Specialization (Coursera); Course: Green Energy Systems (Udemy); Doc: IEA Clean Energy Reports; YouTube: Real Engineering
+Grid Connection,Book: Electric Power Systems: A Conceptual Introduction; Course: Smart Grid Technology (Coursera); Course: Grid Connection of Renewables (Udemy); Doc: NREL Grid Modernization; YouTube: Practical Engineering
+Grid Infrastructure,Book: Power System Analysis and Design; Course: Electric Power Systems (Coursera); Course: Grid Infrastructure Management (Udemy); Doc: Department of Energy (DOE) Grid; YouTube: Energy 101
+Grid Integration,Book: Integration of Distributed Generation in the Power System; Course: Grid Integration of Wind (Coursera); Course: Renewable Energy Integration (Udemy); Doc: NREL Grid Integration; YouTube: Engineering Mindset
+Grid Reliability,Book: Reliability of Power Systems; Course: Power Grid Management (Coursera); Course: Grid Stability and Reliability (Udemy); Doc: NERC Reliability Standards; YouTube: Real Engineering
+Grid Standards,Book: IEEE Standard for Interconnecting Distributed Resources; Course: Energy Policy and Standards (Coursera); Course: Utility Grid Standards (Udemy); Doc: IEEE 1547 Standard; YouTube: IEEE
+HDL (Verilog/VHDL),Book: Digital Design (Verilog); Course: Verilog HDL for FPGA (Udemy); Course: Digital Logic Design (Coursera); Doc: FPGA4Fun; YouTube: Digitally Lit
+HTML5,Book: HTML5 and CSS3 for Dummies; Course: HTML5 Specialization (Coursera); Course: The Complete Web Developer (Udemy); Doc: MDN Web Docs; YouTube: Web Dev Simplified
+HVAC Diagnostics,Book: Modern Refrigeration and Air Conditioning; Course: HVAC Troubleshooting (Udemy); Course: HVAC Diagnostics (Coursera); Doc: Carrier Technical Manuals; YouTube: HVAC School
+HVAC Optimization,Book: HVAC Design Sourcebook; Course: Energy Efficiency in HVAC (Coursera); Course: Advanced HVAC Systems (Udemy); Doc: ASHRAE Technical Resources; YouTube: The Engineering Mindset
+HVAC Repair,Book: HVAC Troubleshooting Guide; Course: HVAC Technician Path (Udemy); Course: Residential HVAC (Coursera); Doc: AC Service Tech; YouTube: AC Service Tech LLC
+Hardware Maintenance,Book: CompTIA A+ Certification All-in-One; Course: IT Support Professional (Coursera); Course: PC Building and Repair (Udemy); Doc: ifixit.com; YouTube: JayzTwoCents
+Hazard Identification,Book: HAZOP and HAZAN; Course: Workplace Safety (Coursera); Course: Hazard Identification & Risk Assessment (Udemy); Doc: OSHA Safety Management; YouTube: Safety First
+Heat Transfer,Book: Heat and Mass Transfer (Cengel); Course: Heat Transfer (Coursera); Course: Thermal Management (Udemy); Doc: Engineering Toolbox; YouTube: The Efficient Engineer
+High Availability,Book: High Availability Architecture; Course: Cloud Architecture (Coursera); Course: High Availability Systems (Udemy); Doc: AWS Well-Architected Framework; YouTube: NetworkChuck
+High-Force Systems,Book: Hydraulic Control Systems; Course: High-Force Hydraulic Systems (Udemy); Course: Mechanical Force and Motion (Coursera); Doc: Parker Hannifin Technical Manuals; YouTube: Practical Engineering
+High-Precision Engineering,Book: Precision Machine Design; Course: Metrology and Precision Engineering (Coursera); Course: Advanced Manufacturing (Udemy); Doc: NIST Precision Engineering; YouTube: Titans of CNC
+High-Speed Typing,Book: Touch Typing in 10 Hours; Course: Speed Typing Course (Udemy); Tool: typing.com; Tool: Keybr.com; YouTube: Ali Abdaal
+High-Tolerance Accuracy,Book: Geometric Dimensioning and Tolerancing; Course: GD&T Masterclass (Udemy); Course: Advanced Machining (Coursera); Doc: ASME Certification; YouTube: The GD&T Hierarchy
+High-Tolerance Design,Book: Mechanical Design (Shigley); Course: Precision Mechanical Design (Udemy); Course: Engineering Tolerance Analysis (Coursera); Doc: Autodesk Design Standards; YouTube: Efficient Engineer
+High-Voltage Engineering,Book: High Voltage Engineering (Kuffel); Course: Electric Power Systems (Coursera); Course: High Voltage Testing (Udemy); Doc: IEEE Power & Energy Society; YouTube: Engineering Mindset
+Home Networking,Book: Home Networking for Dummies; Course: Complete Home Networking (Udemy); Course: Network Basics (Coursera); Doc: Cisco Home Networking; YouTube: The Hook Up
+Human Factors,Book: The Design of Everyday Things (Norman); Course: Human Factors and Ergonomics (Coursera); Course: Interaction Design (Udemy); Doc: ISO 9241 Standard; YouTube: Nielsen Norman Group
+Human-Centric Design,Book: Don't Make Me Think; Course: UI/UX Design Specialization (Coursera); Course: User-Centered Design (Udemy); Doc: Design Council UK; YouTube: The Futur
+Hydraulic Modeling,Book: Applied Hydraulic Transients; Course: Hydraulic Modeling with WaterGEMS (Udemy); Course: Urban Infrastructure (Coursera); Doc: Bentley Systems Manuals; YouTube: Practical Engineering
+Hydraulics,Book: Industrial Hydraulics Manual; Course: Introduction to Hydraulics (Coursera); Course: Hydraulic Power Systems (Udemy); Doc: Hydraulics & Pneumatics Magazine; YouTube: Engineering Mindset
+Hydraulics/Pneumatics,Book: Fluid Power with Applications; Course: Hydraulics and Pneumatics (Udemy); Course: Mechanical Systems (Coursera); Doc: SMC Pneumatics Documentation; YouTube: RealPars
+Hydro-turbines,Book: Hydropower Engineering Handbook; Course: Renewable Energy Systems (Coursera); Course: Hydropower Technology (Udemy); Doc: International Hydropower Association; YouTube: Energy 101
+Hydrodynamics,Book: A First Course in Fluid Dynamics; Course: Hydrodynamics and Ocean Engineering (Coursera); Course: Ship Hydrodynamics (Udemy); Doc: NASA Glenn Fluid Dynamics; YouTube: Science Channel
+Hydrological Modeling,Book: Applied Hydrology (Chow); Course: Introduction to Hydrology (Coursera); Course: Hydrological Modeling with HEC-HMS (Udemy); Doc: USACE HEC-HMS Manual; YouTube: Hans van der Kwast
+Hygienic Design,Book: Hygienic Design of Food Factories; Course: Food Safety and Hygienic Design (Udemy); Course: Sanitary Engineering (Coursera); Doc: EHEDG Guidelines; YouTube: Food Safety Experts
+IP Law,Book: Intellectual Property in the New Technological Age; Course: Intellectual Property Law (Coursera); Course: Patent Strategy for Business (Udemy); Doc: WIPO.int; YouTube: Legal Eagle
+ISO 13485,Book: ISO 13485:2016 Medical Devices; Course: ISO 13485 Implementation (Udemy); Course: Quality Management for Medical Devices (Coursera); Doc: ISO.org Official Standard; YouTube: Quality Gurus
+IT Governance (COBIT),Book: COBIT 2019 Framework; Course: IT Governance Foundation (Udemy); Course: IT Strategic Management (Coursera); Doc: ISACA COBIT Resource; YouTube: Simplilearn
+IT Security Awareness,Book: The Art of Deception (Mitnick); Course: Cybersecurity Awareness (Coursera); Course: Security Awareness Training (Udemy); Doc: KnowBe4 Resources; YouTube: Cybersecurity Ventures
+IT Strategy,Book: IT Strategy: Issues and Practices; Course: Strategic Management of IT (Coursera); Course: CIO Strategy (Udemy); Doc: Gartner Insights; YouTube: Firm Learning
+Image Processing,Book: Digital Image Processing (Gonzalez); Course: Image Processing with OpenCV (Udemy); Course: Computer Vision Specialization (Coursera); Doc: OpenCV Documentation; YouTube: PyImageSearch
+Image Quality,Book: Camera Image Quality Benchmarking; Course: Digital Image Processing (Coursera); Course: Photography Mastery (Udemy); Doc: DxOMark Test Lab; YouTube: Tony & Chelsea Northrup
+Incident Response,Book: The Incident Response Handbook; Course: Cybersecurity Incident Response (Coursera); Course: Computer Forensics (Udemy); Doc: SANS Incident Response Guides; YouTube: Gerald Auger
+Industrial Automation,Book: Industrial Automation: Circuit Design and Components; Course: Robotics and Industrial Automation (Coursera); Course: PLC Masterclass (Udemy); Doc: Siemens Industry Online Support; YouTube: RealPars
+Industrial Controls,Book: Electric Motor Control (Stephen Herman); Course: Industrial Control Systems (Udemy); Course: Control Systems (Coursera); Doc: Rockwell Automation Knowledgebase; YouTube: Engineering Mindset
+Industrial Hygiene,"Book: The Occupational Environment: Its Evaluation, Control, and Management; Course: Industrial Hygiene (Udemy); Course: Health and Safety at Work (Coursera); Doc: AIHA (American Industrial Hygiene Association); YouTube: OSHA"
+Industry 4.0,Book: The Fourth Industrial Revolution (Klaus Schwab); Course: Industry 4.0 Specialization (Coursera); Course: Smart Manufacturing (Udemy); Doc: McKinsey Industry 4.0 Insights; YouTube: Bernard Marr
+Industry Standards,Book: The Standard for Program Management; Course: Quality Standards (Coursera); Course: ISO/IEEE Standards (Udemy); Doc: ANSI.org; YouTube: ISO Channel
+Information Confidentiality,Book: Information Security: Principles and Practice; Course: Information Privacy (Coursera); Course: Data Confidentiality (Udemy); Doc: IAPP Privacy Standards; YouTube: Privacy Kitchen
+Information Retrieval,Book: Introduction to Information Retrieval; Course: Natural Language Processing (Coursera); Course: Search Engine Optimization (Udemy); Doc: Elasticsearch Documentation; YouTube: Stanford NLP
+Infrastructure Design,Book: Sustainable Infrastructure: The Guide to Green Engineering; Course: Civil Engineering Infrastructure (Coursera); Course: Infrastructure Design with AutoCAD (Udemy); Doc: Infrastructure Australia Guides; YouTube: Practical Engineering
+Infrastructure Maintenance,Book: Infrastructure Maintenance and Repair; Course: Asset Management (Coursera); Course: Preventative Maintenance (Udemy); Doc: ISO 55000 Maintenance; YouTube: Reliability Web
+Infrastructure Resilience,Book: Resilient Infrastructure; Course: Disaster Management (Coursera); Course: Resilient Systems Design (Udemy); Doc: National Infrastructure Commission; YouTube: World Bank
+Infrastructure Support,Book: The Practice of Cloud System Administration; Course: Google IT Support Professional (Coursera); Course: IT Infrastructure Management (Udemy); Doc: Microsoft Learn Infrastructure; YouTube: NetworkChuck
+Infrastructure as Code,Book: Infrastructure as Code (Kief Morris); Course: Terraform on AWS (Udemy); Course: IaC with Ansible and Terraform (Coursera); Doc: HashiCorp Terraform Documentation; YouTube: TechWorld with Nana
+Injection Molding,Book: Injection Molding Handbook; Course: Injection Molding Technology (Udemy); Course: Plastics Engineering (edX); Doc: Society of Plastics Engineers (SPE); YouTube: The Efficient Engineer
+Innovation Analysis,Book: The Innovator's Dilemma; Course: Innovation Management (Coursera); Course: Strategic Innovation (edX); Doc: WIPO Global Innovation Index; YouTube: Harvard Business Review
+Innovation Strategy,Book: Blue Ocean Strategy; Course: Digital Transformation Strategy (Coursera); Course: Business Innovation (Udemy); Doc: MIT Sloan Management Review; YouTube: Strategyzer
+Instructional Design (ADDIE),Book: Design for How People Learn; Course: Instructional Design Foundations (Coursera); Course: e-Learning Design (Udemy); Doc: Association for Talent Development (ATD); YouTube: Devlin Peck
+Integrated Circuits,Book: Microelectronic Circuits (Sedra/Smith); Course: VLSI Design (Coursera); Course: CMOS Analog IC Design (edX); Doc: IEEE Solid-State Circuits Society; YouTube: Asianometry
+Interior Lighting/Acoustics,Book: Architectural Lighting Design; Course: Lighting Design Specialization (Coursera); Course: Acoustics for Interior Design (Udemy); Doc: IES Lighting Library; YouTube: Balkan Architect
+International Trade Law,Book: International Trade Law (Carr & Stone); Course: International Business Law (Coursera); Course: Trade Law and Policy (edX); Doc: WTO Legal Texts; YouTube: Legal Eagle
+Interoperability,Book: Principles of Health Interoperability; Course: Interoperability in Healthcare (Coursera); Course: API Design for Interoperability (Udemy); Doc: HL7 FHIR Documentation; YouTube: Health IT with Dave
+Inventory Control,Book: Essentials of Inventory Management; Course: Supply Chain Management (Coursera); Course: Inventory Management and Control (Udemy); Doc: ASCM (APICS) Resources; YouTube: Logistics of Logistics
+Inventory Logistics,Book: Logistics and Supply Chain Management; Course: Logistics and Operations (Coursera); Course: Warehouse Management (Udemy); Doc: Council of Supply Chain Management Professionals; YouTube: The Logistics of Logistics
+Inventory Strategy,Book: Inventory Strategy: Maximizing Profit; Course: Operations Management (Coursera); Course: Strategic Sourcing (Udemy); Doc: Investopedia - Inventory Management; YouTube: Supply Chain Now
+IoT Integration,Book: Building the Internet of Things; Course: IoT Programming with Raspberry Pi (Udemy); Course: Industrial IoT (Coursera); Doc: Azure IoT Central Documentation; YouTube: Engineering Mindset
+IoT Protocols,Book: IoT Fundamentals: Networking Technologies; Course: Introduction to IoT (Coursera); Course: IoT Protocols and Standards (Udemy); Doc: Eclipse Foundation IoT Docs; YouTube: Computerphile
+IoT Protocols (Zigbee),Book: Zigbee Wireless Networking; Course: Zigbee and Bluetooth Development (Udemy); Course: Wireless Networking (Coursera); Doc: Connectivity Standards Alliance (CSA); YouTube: Digi International
+IoT Security,Book: IoT Security: Challenges and Solutions; Course: Cybersecurity for IoT (Coursera); Course: IoT Hacking and Security (Udemy); Doc: OWASP IoT Security Project; YouTube: SANS Institute
+Irrigation Design,Book: Turfgrass Soil Management & Irrigation; Course: Irrigation Design & Installation (Udemy); Course: Water Resource Management (Coursera); Doc: Irrigation Association Resources; YouTube: Rain Bird Education
+Java,Book: Effective Java; Course: Java Programming and Software Engineering (Coursera); Course: Java Masterclass (Udemy); Doc: Oracle Java Documentation; YouTube: Programming with Mosh
+Java/C#/Python,Book: Clean Code; Course: Object-Oriented Programming (Coursera); Course: Software Development Fundamentals (Udemy); Doc: Microsoft Learn / Python.org; YouTube: Derek Banas
+JavaScript,Book: Eloquent JavaScript; Course: JavaScript Algorithms and Data Structures (freeCodeCamp); Course: The Complete JavaScript Course (Udemy); Doc: MDN Web Docs; YouTube: Web Dev Simplified
+KPI Tracking,Book: Key Performance Indicators (Bernard Marr); Course: Business Metrics and KPIs (Coursera); Course: KPI Management (Udemy); Doc: Tableau KPI Guides; YouTube: Bernard Marr
+Kinematics,Book: Engineering Mechanics: Dynamics; Course: Robotics: Kinematics and Mathematical Foundations (Coursera); Course: Classical Mechanics (edX); Doc: Khan Academy Physics; YouTube: The Efficient Engineer
+Kotlin,Book: Kotlin in Action; Course: Android App Development with Kotlin (Coursera); Course: Kotlin for Java Developers (Udemy); Doc: Kotlinlang.org; YouTube: Philipp Lackner
+LMS,Book: LMS Success; Course: LMS Administration (Udemy); Course: e-Learning Management (Coursera); Doc: Moodle / Canvas Documentation; YouTube: Devlin Peck
+Lab Management,Book: Laboratory Management: Principles and Processes; Course: Laboratory Quality Management System (Coursera); Course: Clinical Lab Management (Udemy); Doc: WHO Laboratory Guidelines; YouTube: CDC Labs
+Land Acquisition,Book: Real Estate Development; Course: Commercial Real Estate Analysis (edX); Course: Real Estate Finance (Udemy); Doc: Urban Land Institute; YouTube: Break Into CRE
+Laser Physics,Book: Lasers (Siegman); Course: Laser Fundamentals (Coursera); Course: Optics and Photonics (edX); Doc: SPIE Digital Library; YouTube: Science Channel
+Lead Generation,Book: Fanatical Prospecting; Course: Sales and Lead Generation (Coursera); Course: B2B Lead Generation (Udemy); Doc: HubSpot Academy; YouTube: Miles Beckler
+Leak Detection,Book: Leak Detection: Technology and Implementation; Course: Water Loss Management (Udemy); Course: Environmental Monitoring (Coursera); Doc: EPA Leak Detection Methods; YouTube: The Engineering Mindset
+Lean Manufacturing,Book: The Machine That Changed the World; Course: Lean Production (edX); Course: Six Sigma and Lean (Coursera); Doc: Lean Enterprise Institute; YouTube: Gemba Academy
+Lean Six Sigma,Book: Lean Six Sigma Pocket Toolbook; Course: Six Sigma Yellow/Green Belt (Coursera); Course: Lean Six Sigma Masterclass (Udemy); Doc: ASQ.org; YouTube: Six Sigma Academy
+Legal Approval,Book: The Legal Approval Process for Businesses; Course: Corporate Law (Coursera); Course: Contract Management (Udemy); Doc: Legal Information Institute (LII); YouTube: Legal Eagle
+Legal Compliance,Book: Compliance Management; Course: Regulatory Compliance (Coursera); Course: Corporate Governance (Udemy); Doc: ISO 19600 Standards; YouTube: Compliance Week
+Legal Documentation,Book: Legal Writing in Plain English; Course: Legal Drafting (Udemy); Course: Contract Law (Coursera); Doc: LexisNexis Guides; YouTube: Legal Eagle
+Lens Design (Zemax),Book: Modern Optical Engineering; Course: Optical Design with Zemax OpticStudio (Udemy); Course: Applied Optics (Coursera); Doc: Zemax Knowledge Base; YouTube: Zemax Official
+Lifecycle Analysis,Book: Life Cycle Assessment: Theory and Practice; Course: Sustainable Development (Coursera); Course: Environmental Impact Assessment (Udemy); Doc: ISO 14040 Standards; YouTube: Sustainability Illustrated
+Lift Optimization,Book: Theory of Wing Sections; Course: Aerodynamics (MIT OCW); Course: Aircraft Performance (Coursera); Doc: NASA Glenn Research Center; YouTube: Real Engineering
+Light Science,Book: Optics (Hecht); Course: Physics of Light (Coursera); Course: Photometry and Radiometry (edX); Doc: Photonics.com; YouTube: The Science Asylum
+Light-Emitting Technology,Book: Solid State Lighting; Course: LED Technology and Applications (Udemy); Course: Semiconductor Physics (Coursera); Doc: Department of Energy (DOE) SSL; YouTube: Engineering Mindset
+Linguistics,Book: The Study of Language (Yule); Course: Miracles of Human Language (Coursera); Course: Introduction to Linguistics (Udemy); Doc: Linguistic Society of America; YouTube: NativLang
+Load Flow Analysis,Book: Power System Analysis; Course: Electric Power Systems (Coursera); Course: Load Flow Analysis with ETAP (Udemy); Doc: IEEE Power & Energy Society; YouTube: Practical Engineering
+Logistical Planning,Book: Logistical Management; Course: Supply Chain Logistics (Coursera); Course: Logistics and Transportation (Udemy); Doc: Council of Supply Chain Management Professionals; YouTube: Logistics of Logistics
+Logistics,Book: Business Logistics Management; Course: Global Logistics (Coursera); Course: Logistics Management (Udemy); Doc: IATA Logistics Resources; YouTube: Logistics Bureau
+Logistics Planning,Book: Strategic Logistics Management; Course: Operations and Logistics (Coursera); Course: Supply Chain Planning (Udemy); Doc: Inbound Logistics Articles; YouTube: The Logistics of Logistics
+Logistics Software,Book: Information Systems for Logistics; Course: WMS and TMS Systems (Udemy); Course: Digital Supply Chain (Coursera); Doc: SAP/Oracle Logistics Docs; YouTube: Supply Chain Now
+MATLAB,Book: MATLAB: A Practical Introduction; Course: MATLAB Programming for Engineers (Coursera); Course: MATLAB Masterclass (Udemy); Doc: MathWorks Documentation; YouTube: Brian Douglas
+Machine Learning,Book: Hands-On Machine Learning; Course: Machine Learning Specialization (Coursera); Course: Machine Learning A-Z (Udemy); Doc: Scikit-learn Documentation; YouTube: StatQuest
+Machine Uptime,Book: Maintenance and Reliability Best Practices; Course: Asset Management (Coursera); Course: Total Productive Maintenance (Udemy); Doc: ISO 55000 Standards; YouTube: Reliability Web
+Machinery Repair,Book: Machinery's Handbook; Course: Mechanical Repair and Maintenance (Udemy); Course: Industrial Maintenance (Coursera); Doc: SKF Technical Resources; YouTube: Abom79
+Maintainability,"Book: Reliability, Maintainability and Risk; Course: Reliability Engineering (Coursera); Course: Design for Maintenance (Udemy); Doc: NASA Reliability Standards; YouTube: The Efficient Engineer"
+Manufacturing Efficiency,Book: The Goal (Goldratt); Course: Operations Management (Coursera); Course: Manufacturing Process Optimization (Udemy); Doc: Lean Enterprise Institute; YouTube: Gemba Academy
+Manufacturing Tooling,Book: Tool Design (Donaldson); Course: Injection Mold Design (Udemy); Course: Manufacturing Processes (Coursera); Doc: Society of Manufacturing Engineers; YouTube: Titans of CNC
+Marine CAD,Book: Ship Hydrostatics and Stability; Course: Ship Design with AutoCAD (Udemy); Course: Marine Engineering Design (Coursera); Doc: Autodesk Marine Design; YouTube: Casual Navigation
+Marine Engine Maintenance,Book: Reed's Marine Engineering Series; Course: Diesel Engine Maintenance (Udemy); Course: Marine Power Plants (Coursera); Doc: Wärtsilä Technical Library; YouTube: Marine Insight
+Marine Engineering,Book: Introduction to Marine Engineering; Course: Marine Technology (edX); Course: Ship Stability (Udemy); Doc: IMO Regulations; YouTube: Casual Navigation
+Marine Propulsion,Book: Marine Propellers and Propulsion; Course: Marine Power Cycles (Coursera); Course: Ship Propulsion Systems (Udemy); Doc: MAN Energy Solutions Docs; YouTube: Engineering Explained
+Maritime Law,Book: Maritime Law (Yvonne Baatz); Course: Introduction to Maritime Law (Udemy); Course: International Trade Law (Coursera); Doc: IMO Legal Committee; YouTube: Legal Eagle
+Maritime Safety,Book: Safety at Sea; Course: STCW Basic Safety Training (Udemy); Course: Maritime Risk Management (Coursera); Doc: SOLAS Conventions; YouTube: Mentour Pilot
+Market Analysis,Book: Marketing Research (Burns); Course: Market Research Specialization (Coursera); Course: Market Analysis for Business (Udemy); Doc: Statista Reports; YouTube: The Strategy Institute
+Market Research,Book: The Market Research Toolbox; Course: Quantitative and Qualitative Research (Coursera); Course: Consumer Behavior (Udemy); Doc: Pew Research Center; YouTube: HubSpot Academy
+Master Planning,Book: The Urban Design Handbook; Course: Urban Planning and Design (edX); Course: Project Master Planning (Udemy); Doc: American Planning Association; YouTube: City Beautiful
+Mastering Tools,Book: Mastering Audio (Bob Katz); Course: Audio Mastering (Coursera); Course: Mastering in the Box (Udemy); Doc: iZotope Ozone Guides; YouTube: In The Mix
+Material Characterization,Book: Materials Characterization: Introduction to Microscopic Methods; Course: Scanning Electron Microscopy (Coursera); Course: Materials Science (edX); Doc: ASTM Testing Standards; YouTube: Materials Science 101
+Material Discovery,Book: Materials Discovery and Design; Course: Materials Informatics (Coursera); Course: Computational Materials Science (edX); Doc: Materials Project; YouTube: Asianometry
+Material Joining,Book: Welding Metallurgy; Course: Introduction to Welding (Udemy); Course: Materials Joining Processes (Coursera); Doc: American Welding Society (AWS); YouTube: Weld.com
+Material Modification,Book: Surface Engineering of Metals; Course: Materials Processing (Coursera); Course: Metallurgy (Udemy); Doc: ASM International; YouTube: The Efficient Engineer
+Material Performance,Book: Mechanical Behavior of Materials; Course: Materials Science and Engineering (Coursera); Course: Fatigue and Fracture (edX); Doc: ISO Material Standards; YouTube: Materials Science 101
+Material Science,Book: Materials Science and Engineering: An Introduction (Callister); Course: Introduction to Materials Science (Coursera); Course: Materials Science (edX); Doc: NIST Materials Science; YouTube: The Efficient Engineer
+Material Testing,Book: Mechanical Testing of Materials; Course: Tensile and Hardness Testing (Udemy); Course: Experimental Mechanics (Coursera); Doc: ISO 17025 Standards; YouTube: Test and Measurement
+Mathematical Analysis,Book: Principles of Mathematical Analysis (Rudin); Course: Introduction to Mathematical Analysis (Coursera); Course: Calculus and Analysis (edX); Doc: Wolfram MathWorld; YouTube: 3Blue1Brown
+Mathematical Modeling,Book: Mathematical Modeling (Meerschaert); Course: Mathematical Modeling (Coursera); Course: Simulation and Modeling (Udemy); Doc: Society for Industrial and Applied Mathematics (SIAM); YouTube: Steve Brunton
+Measurement Science,Book: Introduction to Metrology; Course: Measurement and Instrumentation (Coursera); Course: Measurement Uncertainty (Udemy); Doc: BIPM (International Bureau of Weights and Measures); YouTube: NIST
+Mechanical Design,Book: Shigley's Mechanical Engineering Design; Course: Mechanical Design Specialization (Coursera); Course: Mechanical Engineering Design (Udemy); Doc: Autodesk Mechanical Design; YouTube: The Efficient Engineer
+Mechanical Engineering,Book: Marks' Standard Handbook for Mechanical Engineers; Course: Introduction to Mechanical Engineering (edX); Course: Mechanical Engineering Fundamentals (Udemy); Doc: ASME Standards; YouTube: Engineering Mindset
+Mechanical Repair,Book: Audel Mechanical Trades Pocket Manual; Course: Mechanical Systems Maintenance (Udemy); Course: Machinery Repair (Coursera); Doc: SKF Maintenance Docs; YouTube: Abom79
+Mechanical Seals,Book: Mechanical Seals (Mayer); Course: Pump and Seal Maintenance (Udemy); Course: Mechanical Systems (Coursera); Doc: Flowserve Technical Library; YouTube: The Engineering Mindset
+Mechanical Troubleshooting,Book: The Art of Troubleshooting; Course: Mechanical Systems Troubleshooting (Udemy); Course: Industrial Maintenance (Coursera); Doc: Reliability Web; YouTube: Jim Palam
+Mechatronics,Book: Mechatronics: Electronic Control Systems; Course: Introduction to Mechatronics (edX); Course: Mechatronics and Robotics (Udemy); Doc: IEEE Robotics & Automation Society; YouTube: The Engineering Mindset
+Mechatronics Design,Book: Mechatronics System Design; Course: Arduino for Mechatronics (Udemy); Course: Sensors and Actuators (Coursera); Doc: National Instruments Mechatronics; YouTube: GreatScott!
+Medical Imaging,Book: Principles of Medical Imaging; Course: Medical Image Processing (Coursera); Course: MRI and CT Physics (Udemy); Doc: Radiopaedia; YouTube: Asianometry
+Medical Sensors,Book: Medical Sensors and Devices; Course: Biomedical Sensors (Coursera); Course: Wearable Healthcare Tech (Udemy); Doc: IEEE Sensors Council; YouTube: SparkFun
+Memory Optimization,Book: Computer Architecture (Hennessy/Patterson); Course: C++ Memory Management (Udemy); Course: Operating Systems (Coursera); Doc: Microsoft Learn: Memory Management; YouTube: The Cherno
+Merchandising,Book: Retail Merchandising; Course: Visual Merchandising (Udemy); Course: Retail Management (Coursera); Doc: National Retail Federation (NRF); YouTube: Retail Dogma
+Metadata Standards,Book: Metadata (Jeffrey Pomerantz); Course: Digital Curation and Metadata (Coursera); Course: Library and Information Science (Udemy); Doc: Dublin Core Metadata Initiative; YouTube: National Archives
+Metallography,Book: Metallography: Principles and Practice; Course: Materials Science (Coursera); Course: Metallurgical Analysis (Udemy); Doc: ASM International; YouTube: Metallurgy Data
+Metallurgy,Book: Physical Metallurgy (Haasen); Course: Introduction to Metallurgy (Udemy); Course: Metals and Alloys (Coursera); Doc: ASM International Handbooks; YouTube: The Efficient Engineer
+Metrology,Book: The Metrology Handbook; Course: Precision Measurement (Udemy); Course: Dimensional Metrology (Coursera); Doc: NIST Metrology; YouTube: Mitutoyo America
+Micro-Mechanics,Book: Micromechanics of Defects in Solids; Course: Mechanics of Materials (Coursera); Course: Micro-scale Engineering (edX); Doc: Sandia National Labs - MEMS; YouTube: Asianometry
+Microchip Materials,Book: The Science and Engineering of Microelectronic Fabrication; Course: Semiconductor Manufacturing (Coursera); Course: Nanotechnology (Udemy); Doc: Intel Technology Blogs; YouTube: Asianometry
+Microcontroller Programming,Book: Making Embedded Systems; Course: Embedded Software and Hardware (Coursera); Course: Microcontroller Masterclass (Udemy); Doc: Arduino / STM32 Documentation; YouTube: Low Level Learning
+Microfabrication,Book: Fundamentals of Microfabrication (Madou); Course: Nano and Microfabrication (Coursera); Course: Cleanroom Processing (edX); Doc: Stanford Nanofabrication Facility; YouTube: Asianometry
+Micron-level Engineering,Book: Precision Machine Design; Course: Metrology and Precision Engineering (Coursera); Course: Advanced Manufacturing (Udemy); Doc: NIST Micron-scale Measurements; YouTube: Titans of CNC
+Microprocessors,Book: Digital Logic and Microprocessor Design; Course: Computer Architecture (Coursera); Course: Microprocessor Programming (Udemy); Doc: Intel / ARM Technical Manuals; YouTube: Computerphile
+Microservices Architecture,Book: Building Microservices (Sam Newman); Course: Microservices Specialization (Coursera); Course: Microservices with Spring Boot (Udemy); Doc: AWS Microservices Whitepaper; YouTube: TechWorld with Nana
+Microsoft Excel,Book: Excel Bible; Course: Excel Skills for Business (Coursera); Course: Microsoft Excel Masterclass (Udemy); Doc: Microsoft Excel Help; YouTube: Leila Gharani
+Middleware,Book: Middleware and Enterprise Integration; Course: Message Queuing and Middleware (Udemy); Course: Cloud Computing (Coursera); Doc: Red Hat Middleware Docs; YouTube: Hussein Nasser
+Middleware Configuration,Book: Enterprise Application Integration; Course: WebSphere/JBoss Configuration (Udemy); Course: Systems Architecture (Coursera); Doc: Oracle Fusion Middleware Documentation; YouTube: TechTarget
+Mobile Dev,Book: iOS Programming / Android Programming; Course: The Complete Mobile App Development Bootcamp (Udemy); Course: Mobile Development (Coursera); Doc: Apple Developer / Android Developers; YouTube: The Net Ninja
+Mobile UI/UX,Book: Don't Make Me Think; Course: UI/UX Design Specialization (Coursera); Course: Mobile User Experience (Udemy); Doc: Material Design / Human Interface Guidelines; YouTube: The Futur
+Molecular Biology,Book: Molecular Biology of the Cell; Course: Introduction to Molecular Biology (edX); Course: Molecular Biology and Genetics (Coursera); Doc: Nature Education: Scitable; YouTube: Khan Academy
+Multimedia Content,Book: Multimedia: Making It Work; Course: Graphic Design Specialization (Coursera); Course: Video Production (Udemy); Doc: Adobe Creative Cloud Tutorials; YouTube: Peter McKinnon
+NLP,Book: Speech and Language Processing (Jurafsky); Course: NLP Specialization (DeepLearning.ai); Course: NLP with Transformers (Udemy); Doc: Hugging Face Documentation; YouTube: Stanford NLP
+Nanomaterials,Book: Introduction to Nanomaterials; Course: Nanotechnology & Nanosensors (Coursera); Course: Nanomaterials Science (edX); Doc: Nature Nanotechnology; YouTube: Science Channel
+Nanotechnology,Book: Nanotechnology: A Gentle Introduction; Course: Understanding Nanotechnology (Coursera); Course: Nano-scale Engineering (edX); Doc: National Nanotechnology Initiative; YouTube: Kurzgesagt - Nanotechnology
+Negotiation,Book: Never Split the Difference (Chris Voss); Course: Successful Negotiation (Coursera); Course: Negotiation Mastery (Udemy); Doc: Harvard Program on Negotiation; YouTube: Chris Voss - MasterClass
+Network Expansion,Book: Computer Networks (Tanenbaum); Course: Network Engineering (Coursera); Course: Enterprise Network Design (Udemy); Doc: Cisco Design Guides; YouTube: NetworkChuck
+Network Monitoring,Book: Network Management Principles; Course: IT Infrastructure Monitoring (Udemy); Course: Network Services (Coursera); Doc: Nagios / Zabbix Documentation; YouTube: Lawrence Systems
+Network Protocols,Book: TCP/IP Illustrated; Course: Computer Communications (Coursera); Course: Introduction to Networking (Udemy); Doc: IETF RFCs; YouTube: Computerphile
+Network Security,Book: Network Security Essentials; Course: CompTIA Security+ (Udemy); Course: Cybersecurity Specialization (Coursera); Doc: NIST Network Security; YouTube: Simply Cyber
+Network Topology Design,Book: Top-Down Network Design; Course: Cisco CCNA (Udemy); Course: Network Architecture (Coursera); Doc: Cisco Hierarchical Design; YouTube: Jeremy's IT Lab
+Noise Control,Book: Noise and Vibration Control Engineering; Course: Acoustics (Coursera); Course: Noise Control Design (Udemy); Doc: OSHA Noise Standards; YouTube: Acoustic Fields
+Non-Destructive Testing (NDT),Book: Introduction to NDT; Course: NDT Methods (Udemy); Course: Quality Control in Manufacturing (Coursera); Doc: ASNT (American Society for NDT); YouTube: NDT Video
+Normalization,Book: Database Design; Course: Relational Database Design (Coursera); Course: SQL Normalization (Udemy); Doc: Oracle Database Concepts; YouTube: Dr. Daniel Soper
+Nuclear Physics,Book: Introductory Nuclear Physics (Krane); Course: Nuclear Engineering (Coursera); Course: Quantum Mechanics (edX); Doc: IAEA Publications; YouTube: ScienceTime
+OSHA Regulations,Book: OSHA Standards for General Industry; Course: OSHA 10/30 Hour Training (Udemy); Course: Workplace Safety (Coursera); Doc: OSHA.gov; YouTube: Safety Training
+Object-Oriented Programming,Book: Design Patterns (GoF); Course: Java/C++ OOP (Coursera); Course: Object Oriented Programming (Udemy); Doc: Refactoring.Guru; YouTube: Derek Banas
+Offline Data Sync,Book: Designing Data-Intensive Applications; Course: Mobile App Architecture (Udemy); Course: Cloud Data Sync (Coursera); Doc: Firebase Offline Capabilities; YouTube: Hussein Nasser
+Offshore Logistics,Book: Offshore Logistics and Supply Chain; Course: Marine Engineering (Coursera); Course: Offshore Project Management (Udemy); Doc: Maritime Administration (MARAD); YouTube: Energy 101
+On-site Setup,Book: Event Management and Production; Course: Technical Support Fundamentals (Coursera); Course: Field Engineering (Udemy); Doc: Microsoft Deployment Toolkit; YouTube: Eli the Computer Guy
+On-site Testing,Book: Software Testing in the Real World; Course: Hardware Testing (Udemy); Course: Field Testing and Validation (Coursera); Doc: ISO 17025 Standards; YouTube: Engineering Mindset
+Online Assessment,Book: Essentials of Educational Measurement; Course: Learning Analytics (Coursera); Course: Designing Online Assessments (Udemy); Doc: Google Classroom Help; YouTube: Canvas LMS Guides
+OpenCV,Book: Learning OpenCV 4; Course: Computer Vision with OpenCV (Udemy); Course: Image Processing (Coursera); Doc: OpenCV.org Docs; YouTube: PyImageSearch
+Operational Auditing,Book: Sawyer's Internal Auditing; Course: Internal Auditing (Coursera); Course: Operational Audits (Udemy); Doc: IIA Standards; YouTube: Audit Guy
+Operational Efficiency,Book: The Toyota Way; Course: Operations Management (Coursera); Course: Lean Six Sigma (Udemy); Doc: Lean Enterprise Institute; YouTube: Gemba Academy
+Operational Safety,Book: Operational Safety Management; Course: HSE Management (Udemy); Course: Safety in Operations (Coursera); Doc: ILO Occupational Safety; YouTube: Safety First
+Operations Research,Book: Introduction to Operations Research (Hillier); Course: Operations Research Specialization (Coursera); Course: Linear Programming (Udemy); Doc: INFORMS Resources; YouTube: The Engineering Mindset
+Optical Alignment,Book: Optomechanical Design; Course: Optics and Photonics (Coursera); Course: Optical Alignment Techniques (Udemy); Doc: Thorlabs Technical Guides; YouTube: Photonics Lab
+Optical Engineering,Book: Modern Optical Engineering (Smith); Course: Introduction to Optics (edX); Course: Lens Design (Udemy); Doc: SPIE Digital Library; YouTube: Science Asylum
+P&C Systems,Book: Power System Protection and Switchgear; Course: Protection and Control (Udemy); Course: Electrical Power Systems (Coursera); Doc: SEL Technical Library; YouTube: Engineering Mindset
+PCB Design,Book: The Art of Electronics; Course: Altium Designer Masterclass (Udemy); Course: PCB Design for Beginners (Coursera); Doc: KiCad Documentation; YouTube: Robert Feranec
+PL/SQL,Book: Oracle PL/SQL Programming; Course: Oracle PL/SQL Masterclass (Udemy); Course: SQL for Data Science (Coursera); Doc: Oracle PL/SQL Docs; YouTube: Programming with Mosh
+PLC Programming,Book: Programmable Logic Controllers; Course: PLC Programming from Scratch (Udemy); Course: Industrial Automation (Coursera); Doc: Rockwell Automation Help; YouTube: RealPars
+PLC/SCADA,Book: SCADA: Supervisory Control and Data Acquisition; Course: PLC and SCADA (Udemy); Course: Industrial Control Systems (Coursera); Doc: Inductive Automation Ignition Docs; YouTube: RealPars
+PV System Design,Book: Photovoltaic Systems Engineering; Course: Solar Energy Photovoltaic Systems (edX); Course: PV System Design (Udemy); Doc: NREL PVWatts; YouTube: Solar Energy International
+PVSyst,Book: Solar Energy Engineering; Course: PVSyst Professional Course (Udemy); Course: Solar Simulation (Coursera); Doc: PVSyst Official Help; YouTube: Solar Design School
+Packaging Durability,Book: Fundamentals of Packaging Technology; Course: Package Engineering (Udemy); Course: Supply Chain Packaging (Coursera); Doc: ISTA Testing Standards; YouTube: The Packaging School
+Patient Safety Standards,Book: Internal Medicine: Patient Safety; Course: Patient Safety Specialization (Coursera); Course: Healthcare Quality (Udemy); Doc: The Joint Commission; YouTube: WHO Patient Safety
+Penetration Testing,Book: The Penetration Tester's Guide; Course: Ethical Hacking (Udemy); Course: Cybersecurity Professional (Coursera); Doc: OWASP Penetration Testing; YouTube: The Cyber Mentor
+Performance Auditing,Book: Performance Auditing: A Measurement Approach; Course: Auditing for Performance (Udemy); Course: Financial Auditing (Coursera); Doc: GAO Government Auditing Standards; YouTube: Accounting Stuff
+Performance Benchmarking,Book: Systems Performance (Brendan Gregg); Course: Software Performance (Udemy); Course: Performance Engineering (Coursera); Doc: SPEC Benchmarks; YouTube: Cloud Performance
+Performance Tuning,Book: SQL Performance Explained; Course: Database Performance Tuning (Udemy); Course: System Optimization (Coursera); Doc: PostgreSQL Performance Tuning; YouTube: Hussein Nasser
+Petrochemical Engineering,Book: Petrochemical Processes; Course: Petroleum Engineering (Coursera); Course: Chemical Engineering (edX); Doc: American Petroleum Institute (API); YouTube: Energy 101
+Photonic Integration,Book: Silicon Photonics Design; Course: Photonic Integrated Circuits (edX); Course: Optical Communications (Coursera); Doc: Photonics Society; YouTube: Asianometry
+Photonics,Book: Fundamentals of Photonics (Saleh); Course: Photonics Specialization (Coursera); Course: Fiber Optics (Udemy); Doc: IEEE Photonics Society; YouTube: Science Asylum
+Physics Simulation,Book: Physics for Game Developers; Course: Simulating Physics with C++ (Udemy); Course: Computational Physics (Coursera); Doc: Unity Physics Engine; YouTube: Two Minute Papers
+Physiology,Book: Guyton and Hall Textbook of Medical Physiology; Course: Introductory Human Physiology (Coursera); Course: Anatomy & Physiology (Udemy); Doc: NIH Physiology Resources; YouTube: Khan Academy Medicine
+Pipeline Design,Book: Piping and Pipeline Engineering; Course: Pipeline Engineering (Udemy); Course: Oil and Gas Logistics (Coursera); Doc: ASME B31.3 Standards; YouTube: Engineering Mindset
+Pipeline Safety,Book: Pipeline Integrity Handbook; Course: Oil & Gas Safety (Udemy); Course: Safety in Process Industries (Coursera); Doc: PHMSA Regulations; YouTube: Safety First
+Pollution Control,Book: Air Pollution Control Engineering; Course: Water Management and Policy (Coursera); Course: Environmental Engineering (Udemy); Doc: EPA Pollution Prevention; YouTube: Sustainability Illustrated
+Polymer Chemistry,Book: Principles of Polymerization; Course: Polymer Science (Coursera); Course: Introduction to Polymers (Udemy); Doc: American Chemical Society (ACS); YouTube: The Efficient Engineer
+Post-Production,Book: The Lean Post-Production Guide; Course: Video Editing with Premiere Pro (Udemy); Course: Film Post-Production (Coursera); Doc: Adobe Post-Production Workflow; YouTube: Film Riot
+Power Conversion,"Book: Power Electronics: Converters, Applications; Course: Power Conversion Specialization (Coursera); Course: DC-DC Converter Design (Udemy); Doc: TI Power Management; YouTube: KatKimShow"
+Power Generation,Book: Power Plant Engineering; Course: Electric Power Systems (Coursera); Course: Renewable Energy Systems (Udemy); Doc: IEEE Power & Energy Society; YouTube: Engineering Mindset
+Power Management,Book: Power Management Techniques; Course: Embedded Systems Power Management (Udemy); Course: Sustainability in Power (Coursera); Doc: Qualcomm Power Management Docs; YouTube: GreatScott!
+Power Optimization,Book: Energy Efficient Servers; Course: Power Optimization in ICs (Coursera); Course: Green Computing (Udemy); Doc: Intel Power Optimization Guides; YouTube: Asianometry
+Power Plant Management,Book: Modern Power Plant Management; Course: Power Plant Operations (Udemy); Course: Energy Industry Management (Coursera); Doc: DOE Power Plant Reports; YouTube: Energy 101
+Power Systems,Book: Power System Analysis and Design; Course: Electric Power Systems (Coursera); Course: Electrical Power Engineering (Udemy); Doc: IEEE Power Systems; YouTube: Practical Engineering
+Power Transmission,Book: Electric Power Transmission System Engineering; Course: Smart Grid (Coursera); Course: Power Transmission Lines (Udemy); Doc: Grid Modernization Index; YouTube: Engineering Mindset
+Powertrain Engineering,Book: Automotive Powertrain Science; Course: Hybrid & Electric Vehicles (Coursera); Course: Engine Mechanics (Udemy); Doc: SAE Powertrain Research; YouTube: Engineering Explained
+Precision Engineering,Book: Precision Machine Design; Course: Precision Engineering (Coursera); Course: Advanced Manufacturing (Udemy); Doc: NIST Precision Manufacturing; YouTube: Titans of CNC
+Precision Farming,Book: Precision Agriculture for Sustainability; Course: Agriculture Technology (Coursera); Course: Smart Farming (Udemy); Doc: USDA Precision Ag; YouTube: Future Farming
+Precision Machining,Book: Machinery's Handbook; Course: CNC Machining Masterclass (Udemy); Course: Precision Machining (Coursera); Doc: Fanuc Machining Manuals; YouTube: Titans of CNC
+Precision Manufacturing,Book: Precision Manufacturing (Dornfeld); Course: Manufacturing Processes (Coursera); Course: Advanced Machining (Udemy); Doc: ISO Precision Standards; YouTube: The Efficient Engineer
+Precision Optics,Book: Fabrication Methods for Precision Optics; Course: Optical Engineering (edX); Course: Optics Design (Udemy); Doc: Thorlabs Technical Resource; YouTube: Science Asylum
+Predictive Maintenance,Book: Predictive Maintenance of Pumps and Motors; Course: IoT and Predictive Maintenance (Coursera); Course: Predictive Maintenance with Python (Udemy); Doc: IBM Maximo Documentation; YouTube: Reliability Web
+Predictive Modeling,Book: Applied Predictive Modeling; Course: Machine Learning Specialization (Coursera); Course: Predictive Analytics with R (Udemy); Doc: Scikit-Learn Predictive Modeling; YouTube: StatQuest
+Pressure Regulation,Book: Valve Selection Handbook; Course: Hydraulics and Pneumatics (Udemy); Course: Control Systems (Coursera); Doc: Emerson Pressure Regulation Docs; YouTube: Engineering Mindset
+Pressure System Diagnostics,Book: Hydraulic Control Systems; Course: Pneumatics Diagnostics (Udemy); Course: Industrial Troubleshooting (Coursera); Doc: Parker Hannifin Technical Guides; YouTube: LunchBox Sessions
+Preventive Maintenance,Book: Maintenance Engineering Handbook; Course: Preventive Maintenance Strategy (Udemy); Course: Asset Management (Coursera); Doc: ISO 55000 Maintenance; YouTube: Reliability Web
+Pricing Strategy,Book: The Strategy and Tactics of Pricing; Course: Pricing Strategy Specialization (Coursera); Course: Business Pricing Models (Udemy); Doc: Harvard Business Review Pricing; YouTube: The Futur
+Print Quality Control,Book: The Print Quality Guide; Course: Graphic Design Printing (Udemy); Course: Color Management (Coursera); Doc: Pantone Guides; YouTube: The Futur
+Prior Art Search,Book: Patent Searching Made Easy; Course: Intellectual Property Specialization (Coursera); Course: Patent Law for Engineers (Udemy); Doc: USPTO Patent Search; YouTube: WIPO Official
+Privacy Law Compliance,Book: Data Privacy Law; Course: GDPR Compliance (Coursera); Course: Privacy Professional (CIPP) (Udemy); Doc: IAPP Privacy Library; YouTube: Privacy Kitchen
+Probabilistic Modeling,Book: Probabilistic Graphical Models; Course: Probabilistic Graphical Models (Coursera); Course: Bayesian Statistics (Udemy); Doc: PyMC3 Documentation; YouTube: 3Blue1Brown
+Problem Solving,Book: Stop Guessing (Nat Greene); Course: Critical Thinking and Problem Solving (Coursera); Course: Effective Problem Solving (Udemy); Doc: McKinsey Problem Solving; YouTube: Productivity Game
+Process Control,Book: Process Dynamics and Control; Course: Control Systems Engineering (Coursera); Course: Industrial Process Control (Udemy); Doc: Siemens Process Control Docs; YouTube: RealPars
+Process Control (PID),Book: PID Control; Course: PID Controller Tuning (Udemy); Course: Feedback Control (Coursera); Doc: MATLAB PID Tuning Docs; YouTube: Brian Douglas
+Process Mapping,Book: Business Process Mapping; Course: Process Mapping and Improvement (Coursera); Course: Lean Process Mapping (Udemy); Doc: Lucidchart Process Mapping; YouTube: Lean Enterprise Institute
+Process Optimization,Book: Operations Management: Optimization; Course: Operations Research (Coursera); Course: Lean Six Sigma Process Optimization (Udemy); Doc: Six Sigma Guides; YouTube: Lean Online
+Process Simulation,Book: Process Simulation and Control; Course: Aspen HYSYS Simulation (Udemy); Course: Chemical Process Simulation (Coursera); Doc: SimScale Help; YouTube: LearnChemE
+Processor Architecture,Book: Computer Architecture (Hennessy/Patterson); Course: Microprocessor Design (Coursera); Course: Computer Architecture (Udemy); Doc: Intel/ARM Manuals; YouTube: Computerphile
+Procurement Processes,Book: Procurement and Supply Chain Management; Course: Supply Chain Procurement (Coursera); Course: Strategic Sourcing (Udemy); Doc: Chartered Institute of Procurement (CIPS); YouTube: Supply Chain Now
+Product Demonstrations,Book: Demonstrating to Win!; Course: Sales Presentation Skills (Coursera); Course: The Art of the Demo (Udemy); Doc: Gong.io Demo Tips; YouTube: Winning by Design
+Product Demos,Book: Great Demo!; Course: Sales Training: Product Demos (Udemy); Course: Sales Strategy (Coursera); Doc: HubSpot Sales Blog; YouTube: SaasTr
+Product Development,Book: Product Design and Development; Course: Product Development Specialization (Coursera); Course: Agile Product Development (Udemy); Doc: Product School Content; YouTube: The Futur
+Product Discovery,Book: Continuous Discovery Habits; Course: Product Discovery (Coursera); Course: Product Management Foundation (Udemy); Doc: Silicon Valley Product Group; YouTube: Teresa Torres
+Product Knowledge,Book: The Product Book; Course: Product Management Specialization (Coursera); Course: Tech for Product Managers (Udemy); Doc: Product Management Insider; YouTube: Product School
+Product Lifecycle,Book: Product Lifecycle Management; Course: Product Management Strategy (Coursera); Course: Product Strategy (Udemy); Doc: Investopedia - Product Life Cycle; YouTube: Mind the Product
+Product Lifecycle Management (PLM),Book: PLM: Driving the Next Generation of Lean; Course: PLM Fundamentals (Udemy); Course: Operations Management (Coursera); Doc: Siemens Teamcenter Docs; YouTube: Aras PLM
+Production Efficiency,Book: The Machine That Changed the World; Course: Operations Excellence (Coursera); Course: Lean Manufacturing (Udemy); Doc: Lean Enterprise Institute; YouTube: Gemba Academy
+Production Planning,Book: Production Planning and Inventory Control; Course: Supply Chain Planning (Coursera); Course: Master Production Scheduling (Udemy); Doc: APICS Resource Center; YouTube: Logistics of Logistics
+Project Coordination,Book: The Project Management Toolkit; Course: Project Management Basics (Coursera); Course: Coordination and Management (Udemy); Doc: PMI Resource Hub; YouTube: Adriana Girdler
+Project Feasibility,Book: Feasibility Studies for Projects; Course: Project Appraisal (Coursera); Course: Financial Modeling for Feasibility (Udemy); Doc: Investopedia - Feasibility Study; YouTube: ProjectManager
+Project Management,Book: The PMBOK Guide; Course: Google Project Management Professional (Coursera); Course: Project Management Professional (PMP) (Udemy); Doc: Project Management Institute (PMI); YouTube: ProjectManager
+Proof of Concept (PoC),Book: Running Lean; Course: Lean Startup (Coursera); Course: Product Prototype and Validation (Udemy); Doc: Y Combinator Library; YouTube: Slidebean
+Proposal Writing,Book: The Only Grant-Writing Book You'll Ever Need; Course: Business Proposal Writing (Coursera); Course: Grant Writing for Nonprofits (Udemy); Doc: Proposal Writing Guide; YouTube: HubSpot Academy
+Propulsion,Book: Rocket Propulsion Elements; Course: Jet and Rocket Propulsion (Coursera); Course: Aircraft Propulsion (edX); Doc: NASA Glenn Propulsion; YouTube: Scott Manley
+Prosthetic Design,Book: Prosthetics and Orthotics; Course: Biomedical Engineering (Coursera); Course: Introduction to Prosthetics (Udemy); Doc: Amputee Coalition Resources; YouTube: Bionics Institute
+Prototyping,Book: Prototype to Product; Course: Product Prototyping (Udemy); Course: Design Thinking Specialization (Coursera); Doc: InVision Design Education; YouTube: The Futur
+Public Health,Book: Public Health: An Introduction; Course: Foundations of Public Health (Coursera); Course: Epidemiology for Public Health (edX); Doc: World Health Organization (WHO); YouTube: Global Health with Greg Martin
+Pulping Technology,Book: Pulp and Paper Chemistry and Chemical Technology; Course: Pulping and Papermaking (TAPPI); Doc: TAPPI Standards; YouTube: FPInnovations; Course: Wood Science and Technology (Udemy)
+Pump Systems,Book: Pump Handbook; Course: Pump Systems Optimization (Hydraulic Institute); Doc: HI Standards; YouTube: The Engineering Mindset; Course: Centrifugal Pump Basics (Udemy)
+PyTorch/TensorFlow,Book: Deep Learning with PyTorch; Course: TensorFlow Developer Certificate (Coursera); Doc: PyTorch/TF Official Docs; YouTube: Sentdex; Course: PyTorch for Deep Learning (Udemy)
+Python,Book: Automate the Boring Stuff with Python; Course: Python for Everybody (Coursera); Doc: Python 3 Documentation; YouTube: Corey Schafer; Course: The Complete Python Bootcamp (Udemy)
+Python/R,Book: Python for Data Analysis; Course: Data Science Specialization (R) (Coursera); Doc: CRAN R Documentation; YouTube: StatQuest; Course: Python and R for Data Science (Udemy)
+QA Methodologies,Book: The Art of Software Testing; Course: Software Testing Specialization (Coursera); Doc: ISTQB Syllabus; YouTube: The Testing Academy; Course: ISTQB Foundation Level (Udemy)
+Quality Assurance,Book: Quality Assurance: A Guide to Best Practices; Course: Software Testing Fundamentals (Coursera); Doc: IEEE 730-2014; YouTube: Naveen AutomationLabs; Course: Quality Management Basics (Udemy)
+Quality Auditing,Book: The Quality Audit Handbook; Course: Certified Quality Auditor (CQA) Training (ASQ); Doc: ISO 19011:2018; YouTube: Quality Gurus; Course: Internal Auditor Training (Udemy)
+Quality Control,Book: Quality Control for Dummies; Course: Six Sigma Green Belt (Coursera); Doc: ASTM Quality Standards; YouTube: Gemba Academy; Course: Statistical Process Control (Udemy)
+Quality Management Systems (QMS),Book: ISO 9001:2015 Handbook; Course: QMS Implementation (Udemy); Doc: ISO Official QMS Standards; YouTube: Quality Systems Channel; Course: Foundations of QMS (Coursera)
+Query Optimization,Book: SQL Performance Explained; Course: Database Management Essentials (Coursera); Doc: PostgreSQL/MySQL Performance Tuning; YouTube: Hussein Nasser; Course: Advanced SQL Optimization (Udemy)
+RESTful API Integration,Book: RESTful Web APIs; Course: APIs and Web Services (Coursera); Doc: Postman API Integration Guide; YouTube: Traversy Media; Course: REST API Design and Implementation (Udemy)
+RF Engineering,Book: RF Microelectronics; Course: Radio Frequency Engineering (edX); Doc: Keysight RF Fundamentals; YouTube: The Engineering Mindset; Course: Microwave Engineering (Udemy)
+ROS (Robot Operating System),Book: Programming Robots with ROS; Course: ROS for Beginners (Udemy); Doc: ROS Wiki; YouTube: The Construct; Course: Robot Operating System (edX)
+RTOS,Book: Real-Time Embedded Systems; Course: Introduction to RTOS (Udemy); Doc: FreeRTOS Documentation; YouTube: Low Level Learning; Course: Real-Time Operating Systems (Coursera)
+Rack Management,Book: Data Center Handbook; Course: Data Center Infrastructure Management (Udemy); Doc: EIA-310 Specifications; YouTube: APC by Schneider Electric; Course: IT Infrastructure Support (Coursera)
+Radiation Shielding,Book: Introduction to Health Physics; Course: Nuclear Engineering (Coursera); Doc: IAEA Radiation Safety Standards; YouTube: Radiation Safety Channel; Course: Radiation Protection (edX)
+Railway Signaling,Book: Modern Railway Signaling; Course: Railway Engineering (edX); Doc: AREMA Signal Manual; YouTube: Railways Explained; Course: Introduction to Railway Signaling (Udemy)
+React/Angular,Book: Learning React; Course: Modern React with Redux (Udemy); Doc: React.dev / Angular.io; YouTube: The Net Ninja; Course: Front-End Development (Coursera)
+Reactive Maintenance,Book: Maintenance Engineering Handbook; Course: Reactive vs Proactive Maintenance (Udemy); Doc: ISO 55000 Maintenance Standards; YouTube: Reliability Web; Course: Asset Management (Coursera)
+Reactor Operation,Book: Nuclear Reactor Analysis; Course: Nuclear Energy (Coursera); Doc: NRC Reactor Concepts; YouTube: Illinois Energy Prof; Course: Power Plant Engineering (Udemy)
+Real Estate Law,Book: Real Estate Law (Jennings); Course: Real Estate Specialization (Coursera); Doc: NAR Legal Resources; YouTube: The Real Estate Lawyer; Course: Real Estate Finance and Law (Udemy)
+Record-Keeping,Book: Records Management (Read & Ginn); Course: Document Control (Udemy); Doc: ISO 15489-1; YouTube: ARMA International; Course: Information Management (Coursera)
+Recycling Tech,Book: The Recycling Handbook; Course: Circular Economy and Recycling (edX); Doc: EPA Recycling Basics; YouTube: Sustainability Illustrated; Course: Waste Management and Recycling (Udemy)
+Refrigerant Handling,Book: Modern Refrigeration and Air Conditioning; Course: EPA 608 Certification Prep (Udemy); Doc: EPA Section 608 Regulations; YouTube: HVAC School; Course: HVAC Basics (Coursera)
+Refrigeration Cycles,Book: Thermodynamics: An Engineering Approach; Course: Introduction to Thermodynamics (Coursera); Doc: ASHRAE Refrigeration Handbook; YouTube: The Engineering Mindset; Course: Refrigeration Systems (Udemy)
+Refrigeration Support,Book: Commercial Refrigeration for Technicians; Course: HVAC Repair and Support (Udemy); Doc: Emerson Climate Technologies Support; YouTube: AC Service Tech LLC; Course: Facility Management (Coursera)
+Regression Testing,Book: Software Testing: A Craftsman's Approach; Course: Regression Testing Basics (Udemy); Doc: ISTQB Glossary; YouTube: Testing Academy; Course: Continuous Testing (Coursera)
+Regulatory Compliance,Book: Compliance Management: A How-to Guide; Course: Healthcare Compliance (Coursera); Doc: ISO 37301 Compliance Management; YouTube: Compliance Week; Course: Legal and Regulatory Compliance (Udemy)
+Regulatory Paperwork,Book: Regulatory Affairs for Biomaterials; Course: Technical Writing for Regulations (Udemy); Doc: FDA Guidance Documents; YouTube: RAPS Official; Course: Medical Device Regulations (Coursera)
+Regulatory Research,Book: Legal Research in a Nutshell; Course: Government Policy and Regulation (Coursera); Doc: Federal Register (USA); YouTube: LawShelf; Course: Regulatory Research Methods (Udemy)
+Reliability Engineering,Book: Practical Reliability Engineering; Course: Reliability Engineering (Coursera); Doc: IEEE Reliability Society; YouTube: Reliability Web; Course: Probability and Statistics for Reliability (Udemy)
+Reliability Maintenance (RCM),Book: Reliability-Centered Maintenance (Moubray); Course: RCM Practitioner (Udemy); Doc: SAE JA1011 Standard; YouTube: Gemba Academy; Course: Maintenance Management (Coursera)
+Reliability Testing,Book: Reliability Testing: A Guide for Engineers; Course: Product Reliability Testing (Udemy); Doc: MIL-STD-810; YouTube: Engineering Explained; Course: Quality and Reliability (Coursera)
+Remediation,Book: Soil and Groundwater Remediation; Course: Environmental Remediation (edX); Doc: EPA Superfund Remediation; YouTube: Environment Agency; Course: Brownfield Redevelopment (Udemy)
+Renewable Energy Strategy,Book: Renewable Energy: Power for a Sustainable Future; Course: Renewable Energy Strategy (Coursera); Doc: IRENA Innovation Landscapes; YouTube: Real Engineering; Course: Energy Transition (Udemy)
+Renewable Strategy,Book: The Clean Tech Revolution; Course: Renewable Energy Specialization (Coursera); Doc: IEA World Energy Outlook; YouTube: Engineering Mindset; Course: Corporate Renewable Strategy (Udemy)
+Requirement Gathering,Book: Software Requirements (Wiegers); Course: Requirements Engineering (Coursera); Doc: BABOK Guide; YouTube: Bridging the Gap; Course: Business Analysis Fundamentals (Udemy)
+Reservoir Engineering,Book: Applied Petroleum Reservoir Engineering; Course: Introduction to Petroleum Engineering (edX); Doc: SPE Petroleum Resources Management; YouTube: Energy 101; Course: Reservoir Simulation (Udemy)
+Resource Allocation,Book: The Resource Management Handbook; Course: Project Management Specialization (Coursera); Doc: PMBOK Resource Management; YouTube: ProjectManager; Course: Strategic Resource Allocation (Udemy)
+Resource Planning,Book: Operations Management (Slack); Course: Supply Chain Planning (Coursera); Doc: Investopedia - ERP Systems; YouTube: Oracle NetSuite; Course: Enterprise Resource Planning (Udemy)
+Resource Recovery,Book: Resource Recovery from Waste; Course: Circular Economy (Coursera); Doc: EPA Sustainable Materials Management; YouTube: Sustainability Illustrated; Course: Waste to Energy (Udemy)
+Responsive Design,Book: Responsive Web Design (Ethan Marcotte); Course: Responsive Web Design Certification (freeCodeCamp); Doc: MDN Responsive Design; YouTube: Kevin Powell; Course: Modern Web Design (Udemy)
+Retail Management,Book: Retail Management (Levy & Weitz); Course: Retail Management Specialization (Coursera); Doc: National Retail Federation (NRF); YouTube: Retail Dogma; Course: The Retail Management Masterclass (Udemy)
+Retail Operations,Book: The Retailer's Guide to Operations; Course: Retail Business Operations (Udemy); Doc: Retail Industry Leaders Association (RILA); YouTube: HubSpot Academy; Course: Supply Chain Operations (Coursera)
+Risk Assessment,Book: The Failure of Risk Management; Course: Risk Management Specialization (Coursera); Doc: ISO 31000 Risk Management; YouTube: Risk Academy; Course: Qualitative Risk Assessment (Udemy)
+Risk Auditing,Book: Risk-Based Internal Auditing; Course: Risk Management and Internal Control (Coursera); Doc: COSO Enterprise Risk Management; YouTube: Internal Audit Guy; Course: Risk Audit Procedures (Udemy)
+Risk Management,Book: Against the Gods: The Remarkable Story of Risk; Course: Financial Risk Management (Coursera); Doc: NIST Risk Management Framework; YouTube: Simply Cyber; Course: The Complete Risk Management Course (Udemy)
+Roadmap Planning,Book: Product Roadmaps Relaunched; Course: Product Management (Coursera); Doc: Atlassian Guide to Product Roadmaps; YouTube: Product School; Course: Agile Roadmap Planning (Udemy)
+Robotics,Book: Introduction to Robotics (Craig); Course: Robotics Specialization (Coursera); Doc: IEEE Robotics and Automation Society; YouTube: The Engineering Mindset; Course: Robotics Foundation (Udemy)
+Root Cause Analysis,Book: Root Cause Analysis: The Core of Problem Solving; Course: Six Sigma Problem Solving (Coursera); Doc: ASQ RCA Tools; YouTube: Gemba Academy; Course: RCA Masterclass (Udemy)
+SD-WAN,Book: SD-WAN The Next Generation of WAN; Course: Cisco SD-WAN Mastery (Udemy); Doc: VMware SD-WAN by VeloCloud Docs; YouTube: NetworkChuck; Course: Enterprise Networking (Coursera)
+SDLC,Book: Clean Architecture; Course: Software Development Lifecycle (Coursera); Doc: Atlassian Agile SDLC Guide; YouTube: Continuous Delivery; Course: The Complete SDLC Course (Udemy)
+SQL,Book: SQL Queries for Mere Mortals; Course: SQL for Data Science (Coursera); Doc: PostgreSQL Documentation; YouTube: Programming with Mosh; Course: The Complete SQL Bootcamp (Udemy)
+Safety Auditing,Book: Safety Auditing: A Management Tool; Course: Workplace Health and Safety (Coursera); Doc: OSHA Audit Guidelines; YouTube: Safety First; Course: Health and Safety Auditing (Udemy)
+Safety Compliance,Book: Safety Management Systems; Course: Regulatory Compliance (Coursera); Doc: ISO 45001 Occupational Health and Safety; YouTube: Compliance Online; Course: Safety Compliance for Managers (Udemy)
+Safety Inspection,Book: The Safety Inspection Handbook; Course: OSHA Compliance Training (Udemy); Doc: National Safety Council (NSC); YouTube: Health and Safety Executive (HSE); Course: Environmental Health and Safety (Coursera)
+Safety Monitoring,Book: Safety Monitoring and Evaluation; Course: Occupational Safety and Health (edX); Doc: NIOSH Safety Monitoring Guides; YouTube: Safety First; Course: Industrial Safety Systems (Udemy)
+Safety Protocols,Book: Safety Culture; Course: HSE Management (Udemy); Doc: WHO Safety Protocols; YouTube: Safety Training; Course: Patient Safety Specialization (Coursera)
+Safety Protocols (HAZOP),Book: HAZOP and HAZAN; Course: Process Safety Management (Udemy); Doc: American Institute of Chemical Engineers (AIChE); YouTube: The Engineering Mindset; Course: Chemical Process Safety (Coursera)
+Safety Regulatory Compliance,Book: Regulatory Affairs and Safety; Course: Global Safety Regulations (Coursera); Doc: EASA/FAA Safety Regulations; YouTube: Safety Culture; Course: Regulatory Compliance Management (Udemy)
+Safety Standards,Book: Safety Standards in Industry; Course: Introduction to Safety Standards (Udemy); Doc: ANSI/ISO Safety Standards; YouTube: The ISO Channel; Course: Standardization for Safety (Coursera)
+Safety Systems,Book: System Safety Engineering and Risk Assessment; Course: Embedded Systems Safety (Coursera); Doc: IEEE Reliability Society; YouTube: Engineering Explained; Course: Industrial Safety Systems (Udemy)
+Safety Testing,Book: Safety and Reliability Testing; Course: Product Testing and Safety (Udemy); Doc: Underwriters Laboratories (UL) Standards; YouTube: Test and Measurement; Course: Quality and Safety (Coursera)
+Sales Forecasting,Book: Sales Forecasting Management; Course: Business Analytics Specialization (Coursera); Doc: HubSpot Guide to Sales Forecasting; YouTube: Winning by Design; Course: The Sales Forecasting Course (Udemy)
+Sales Leadership,Book: Sales Management. Simplified.; Course: Sales Strategy (Coursera); Doc: Gartner for Sales Leaders; YouTube: Sales Hacker; Course: The Sales Leadership Mastery (Udemy)
+Sales Strategy,Book: Strategic Selling; Course: Art of Sales Specialization (Coursera); Doc: Salesforce Sales Strategy Blog; YouTube: The Futur; Course: Sales Strategy Masterclass (Udemy)
+Saltwater Protection,Book: Corrosion of Marine Structures; Course: Marine Engineering Basics (Udemy); Doc: NACE International Corrosion Standards; YouTube: Practical Engineering; Course: Marine Technology (edX)
+Scalability,Book: The Art of Scalability; Course: Cloud Computing Specialization (Coursera); Doc: AWS Scalability Whitepaper; YouTube: System Design Interview; Course: Designing Scalable Systems (Udemy)
+Scalable Infrastructure,Book: Cloud Architecture Patterns; Course: Google Cloud Infrastructure (Coursera); Doc: Microsoft Azure Well-Architected Framework; YouTube: TechWorld with Nana; Course: Docker and Kubernetes (Udemy)
+Scalable Learning,Book: Peak: Secrets from the Science of Expertise; Course: Learning How to Learn (Coursera); Doc: UNESCO Open Educational Resources; YouTube: Ali Abdaal; Course: Instructional Design for Scalability (Udemy)
+Scale-up Operations,Book: Scaling Up (Verne Harnish); Course: Scaling Your Business (Coursera); Doc: Harvard Business Review: Scaling Operations; YouTube: Stanford eCorner; Course: Business Growth and Scaling (Udemy)
+Schema Design,Book: Data Modeling Made Simple; Course: Database Management Systems (Coursera); Doc: Schema.org Official Site; YouTube: Lucidchart; Course: The Complete Database Design Course (Udemy)
+Schema Mapping,Book: Principles of Data Integration; Course: Data Management with SQL (Coursera); Doc: Oracle Data Integrator Docs; YouTube: Data Engineering Academy; Course: Data Integration Masterclass (Udemy)
+Scripting (Bash/PowerShell),Book: The Linux Command Line; Course: Python and Bash Scripting (Coursera); Doc: Microsoft PowerShell Documentation; YouTube: NetworkChuck; Course: Shell Scripting Masterclass (Udemy)
+Secure Boot,Book: Embedded Systems Security; Course: Cybersecurity for Embedded Systems (Udemy); Doc: UEFI Specification - Secure Boot; YouTube: Low Level Learning; Course: IoT Security (Coursera)
+Security Auditing,Book: Information Security Management Principles; Course: Cybersecurity Specialization (Coursera); Doc: ISACA Audit Standards; YouTube: Simply Cyber; Course: The CISA Certification Course (Udemy)
+Security Integration,Book: DevSecOps: A Leader's Guide; Course: Security in Google Cloud Platform (Coursera); Doc: AWS Security Hub Documentation; YouTube: TechWorld with Nana; Course: Cybersecurity Integration (Udemy)
+Seismic Risk,Book: Seismic Risk and Engineering; Course: Natural Hazards (Coursera); Doc: USGS Seismic Hazard Maps; YouTube: Practical Engineering; Course: Seismic Design for Structures (Udemy)
+Semiconductor Design,Book: Digital Integrated Circuits (Rabaey); Course: VLSI Design Specialization (Coursera); Doc: IEEE Solid-State Circuits Society; YouTube: Asianometry; Course: Semiconductor Fundamentals (Udemy)
+Semiconductor Fab,Book: Science and Engineering of Microelectronic Fabrication; Course: Semiconductor Manufacturing (Coursera); Doc: Intel Technology Blogs; YouTube: Science Channel; Course: Nanotechnology and Fab (edX)
+Semiconductor Fabrication,Book: Fundamentals of Semiconductor Manufacturing; Course: Nano-scale Engineering (edX); Doc: GlobalFoundries Technical Resources; YouTube: Asianometry; Course: Semiconductor Processing (Udemy)
+Semiconductor Physics,Book: Physics of Semiconductor Devices (Sze); Course: Solid State Physics (edX); Doc: NIST Semiconductor Physics; YouTube: Science Asylum; Course: Physics for Engineering (Coursera)
+Semiconductor Tech,Book: Semiconductor Technology Handbook; Course: Semiconductor Devices (Coursera); Doc: Samsung Semiconductor Technical Blog; YouTube: TechTarget; Course: The Future of Computing (Udemy)
+Sensor Calibration,Book: Measurement and Instrumentation; Course: Instrumentation and Control (Coursera); Doc: NIST Sensor Calibration Guides; YouTube: Beamex; Course: Metrology and Calibration (Udemy)
+Sensor Design,Book: Sensor Design and Application; Course: Sensors and Actuators (Coursera); Doc: IEEE Sensors Council; YouTube: SparkFun; Course: Biomedical Sensor Design (Udemy)
+Sensor Integration,Book: Building the Internet of Things; Course: IoT Programming with Raspberry Pi (Udemy); Doc: Arduino / Raspberry Pi Documentation; YouTube: The Engineering Mindset; Course: Embedded Sensor Integration (Coursera)
+Server Monitoring,Book: The Practice of System Administration; Course: Google IT Support Professional (Coursera); Doc: Nagios / Zabbix / Datadog Documentation; YouTube: NetworkChuck; Course: Cloud Infrastructure Monitoring (Udemy)
+Ship Structural Design,Book: Ship Structural Design (Owen Hughes); Course: Marine Engineering Design (Udemy); Doc: American Bureau of Shipping (ABS) Rules; YouTube: Casual Navigation; Course: Naval Architecture (edX)
+Signal Integrity,Book: Signal and Power Integrity - Simplified; Course: High Speed Digital Design (Udemy); Doc: Altium Academy: Signal Integrity; YouTube: Robert Feranec; Course: Printed Circuit Board Design (Coursera)
+Signal Processing,Book: Digital Signal Processing (Oppenheim); Course: Digital Signal Processing Specialization (Coursera); Doc: IEEE Signal Processing Society; YouTube: 3Blue1Brown; Course: DSP Fundamentals (Udemy)
+Site Analysis,Book: Site Analysis: A Sustainable Approach; Course: Urban Planning and Design (edX); Doc: American Planning Association; YouTube: City Beautiful; Course: Architectural Site Analysis (Udemy)
+Site Characterization,Book: Geotechnical Site Characterization; Course: Soil Mechanics (Coursera); Doc: EPA Site Characterization Guidance; YouTube: Practical Engineering; Course: Environmental Geotechnics (Udemy)
+Site Management,Book: Construction Management Fundamentals; Course: Construction Management Specialization (Coursera); Doc: OSHA Construction Safety; YouTube: The Engineering Toolbox; Course: Project Site Management (Udemy)
+Six Sigma,Book: The Six Sigma Pocket Toolbook; Course: Six Sigma Yellow Belt (Coursera); Doc: ASQ Six Sigma Resources; YouTube: Six Sigma Academy; Course: The Complete Six Sigma Green Belt (Udemy)
+Smart Building Technology,Book: Smart Buildings: Control Devices and Systems; Course: Building Automation Systems (Udemy); Doc: ASHRAE Smart Grid Guides; YouTube: Smart Buildings Academy; Course: Internet of Things for Smart Buildings (Coursera)
+Smart Contracts (Solidity),Book: Mastering Ethereum; Course: Blockchain Specialization (Coursera); Doc: Solidity Official Documentation; YouTube: Patrick Collins; Course: Smart Contract Development (Udemy)
+Smart Grid,Book: Smart Grid: Design and Analysis; Course: Energy Innovation and the Smart Grid (Coursera); Doc: Department of Energy (DOE) Smart Grid; YouTube: Energy 101; Course: Electric Power Systems and Smart Grids (Udemy)
+Software Architecture,Book: Design Patterns: Elements of Reusable Object-Oriented Software; Course: Software Design and Architecture (Coursera); Doc: The Open Group Architecture Framework (TOGAF); YouTube: Christopher Okhravi; Course: Clean Architecture Masterclass (Udemy)
+Soil Conservation,Book: Soil and Water Conservation Engineering; Course: Introduction to Sustainability (Coursera); Doc: USDA Natural Resources Conservation Service; YouTube: Sustainability Illustrated; Course: Sustainable Agriculture (Udemy)
+Soil Mechanics,Book: Craig's Soil Mechanics; Course: Soil Mechanics (Coursera); Course: Intro to Geotechnical Engineering (Udemy); Doc: USDA Soil Survey Manual; YouTube: Practical Engineering
+Solution Architecture,Book: Fundamentals of Software Architecture; Course: AWS Solutions Architect (Udemy); Course: Software Architecture Specialization (Coursera); Doc: AWS Well-Architected Framework; YouTube: Continuous Delivery
+Solution Design,Book: System Design Interview; Course: Software Design and Architecture (Coursera); Course: Mastering Solution Design (Udemy); Doc: Microsoft Azure Solution Design; YouTube: Success in Tech
+Solution Integration,Book: Enterprise Integration Patterns; Course: MuleSoft Integration (Udemy); Course: Integration Architecture (Coursera); Doc: Red Hat Integration Docs; YouTube: TechWorld with Nana
+Sound Engineering,Book: The Recording Engineer's Handbook; Course: Audio Engineering (Coursera); Course: Music Production (Udemy); Doc: Sound on Sound Articles; YouTube: In The Mix
+Space Optimization,Book: Layout Design; Course: Industrial Engineering (Coursera); Course: Warehouse Design (Udemy); Doc: Lean Enterprise Institute; YouTube: The Logistics of Logistics
+Spare Parts Management,Book: Spare Parts Inventory Management; Course: Inventory Management (Coursera); Course: Supply Chain Excellence (Udemy); Doc: ISO 55000 Standards; YouTube: Logistics Bureau
+Spatial Planning,Book: The Urban Design Handbook; Course: Urban Planning (edX); Course: Spatial Data Science (Coursera); Doc: American Planning Association; YouTube: City Beautiful
+Stability Analysis,Book: Control Systems Engineering; Course: Dynamic Systems and Control (Coursera); Course: Stability of Structures (Udemy); Doc: MATLAB Control System Docs; YouTube: Brian Douglas
+Stakeholder Communication,Book: Crucial Conversations; Course: Stakeholder Management (Coursera); Course: Professional Communication (Udemy); Doc: PMI Project Management; YouTube: Simon Sinek
+Stakeholder Management,Book: Managing Stakeholders; Course: Influencing Stakeholders (Coursera); Course: Business Communication (Udemy); Doc: Harvard Business Review; YouTube: ProjectManager
+Standards Development,Book: The Standard for Program Management; Course: ISO Standards Training (Udemy); Course: Policy and Standards (Coursera); Doc: ISO.org Official Site; YouTube: The ISO Channel
+Statistical Analysis,Book: Naked Statistics; Course: Statistics with R (Coursera); Course: Practical Statistics (Udemy); Doc: Statsmodels Documentation; YouTube: StatQuest
+Statistical Process Control (SPC),Book: Statistical Quality Control; Course: Six Sigma and SPC (Coursera); Course: SPC Masterclass (Udemy); Doc: ASQ SPC Resources; YouTube: Gemba Academy
+Statistical Theory,Book: Mathematical Statistics; Course: Statistical Inference (Coursera); Course: Probability and Statistics (edX); Doc: Wolfram MathWorld; YouTube: 3Blue1Brown
+Stored Procedures,Book: T-SQL Fundamentals; Course: Advanced SQL (Udemy); Course: Database Management (Coursera); Doc: Microsoft SQL Server Docs; YouTube: Programming with Mosh
+Strategic KPI Tracking,Book: Key Performance Indicators; Course: Business Metrics (Coursera); Course: KPI Management (Udemy); Doc: Bernard Marr's KPI Library; YouTube: Bernard Marr
+Strategic Partnership Building,Book: Partnership Marketing; Course: Business Development (Coursera); Course: Strategic Partnerships (Udemy); Doc: Forbes Strategy; YouTube: Harvard Business School
+Strategic Planning,"Book: Good Strategy, Bad Strategy; Course: Strategic Management (Coursera); Course: Strategic Planning (Udemy); Doc: McKinsey Insights; YouTube: The Strategy Institute"
+Strategic Roadmapping,Book: Product Roadmaps Relaunched; Course: Product Management (Coursera); Course: Strategic Roadmapping (Udemy); Doc: Atlassian Roadmap Guide; YouTube: Product School
+Strength Testing,Book: Mechanics of Materials; Course: Materials Science (Coursera); Course: Structural Testing (Udemy); Doc: ASTM Testing Standards; YouTube: The Efficient Engineer
+Stress Testing,Book: Financial Stress Testing; Course: Risk Management (Coursera); Course: Software Stress Testing (Udemy); Doc: NIST Stress Testing Guides; YouTube: Simply Cyber
+Structural Analysis,Book: Structural Analysis (Hibbeler); Course: Structural Engineering (Coursera); Course: Advanced Structures (Udemy); Doc: American Institute of Steel Construction; YouTube: The Efficient Engineer
+Structural Integrity,Book: Structural Integrity of Aerospace Materials; Course: Reliability Engineering (Coursera); Course: Structural Safety (Udemy); Doc: NASA Structural Standards; YouTube: Engineering Mindset
+Structural Materials,Book: Materials Science and Engineering; Course: Introduction to Materials (Coursera); Course: Construction Materials (Udemy); Doc: ASM International; YouTube: The Efficient Engineer
+Structural Mechanics,Book: Structural Mechanics (Williams); Course: Structural Mechanics Specialization (Coursera); Course: Mechanical Engineering (edX); Doc: IEEE Structural Systems; YouTube: The Engineering Mindset
+Structural Safety,Book: Structural Safety and Reliability; Course: Building Codes (Udemy); Course: Construction Safety (Coursera); Doc: OSHA Safety Standards; YouTube: Safety First
+Structural Simulation,Book: Finite Element Analysis; Course: Structural Simulation with Ansys (Udemy); Course: Simulation in Engineering (Coursera); Doc: Ansys Help Center; YouTube: SimScale
+Substation Design,Book: Electric Power Substations Engineering; Course: Power Systems (Coursera); Course: Substation Design (Udemy); Doc: IEEE Power & Energy Society; YouTube: Engineering Mindset
+Supply Chain,Book: Supply Chain Management (Chopra); Course: Supply Chain Specialization (Coursera); Course: Logistics and Supply Chain (Udemy); Doc: ASCM (APICS); YouTube: The Logistics of Logistics
+Supply Chain Management,Book: Essentials of Supply Chain Management; Course: Supply Chain Principles (Coursera); Course: Operations and Supply Chain (Udemy); Doc: Supply Chain Council; YouTube: Logistics Bureau
+Supply Chain Optimization,Book: Supply Chain Network Design; Course: Supply Chain Analytics (Coursera); Course: Optimization in Supply Chain (Udemy); Doc: Gartner Supply Chain; YouTube: Supply Chain Now
+Supply Chain Risk,Book: Supply Chain Risk Management; Course: Risk in Supply Chains (Coursera); Course: Supply Chain Resilience (Udemy); Doc: ISO 28000 Standards; YouTube: Chain Reaction
+Sustainability,Book: The Sustainability Secret; Course: Introduction to Sustainability (Coursera); Course: Sustainable Development (Udemy); Doc: UN Sustainability Goals; YouTube: Sustainability Illustrated
+Sustainability Analysis,Book: Sustainability Analysis (Bell); Course: ESG Analysis (Coursera); Course: Environmental Analysis (Udemy); Doc: GRI Standards; YouTube: Climate Town
+Sustainability Metrics,Book: Measuring Sustainability; Course: Sustainability Reporting (Coursera); Course: ESG Metrics (Udemy); Doc: SASB Standards; YouTube: Sustainability Academy
+Sustainable Design,Book: Cradle to Cradle; Course: Sustainable Design Foundations (Coursera); Course: Green Building (Udemy); Doc: USGBC LEED Guide; YouTube: The Futur
+Sustainable Forestry,Book: The Hidden Life of Trees; Course: Forest Management (Coursera); Course: Sustainable Forestry (Udemy); Doc: Forest Stewardship Council (FSC); YouTube: National Geographic
+Sustainable Packaging,Book: Sustainable Packaging; Course: Packaging Design (Udemy); Course: Circular Economy (Coursera); Doc: Sustainable Packaging Coalition; YouTube: The Packaging School
+Sustainable Sourcing,Book: Sustainable Sourcing; Course: Supply Chain Sourcing (Coursera); Course: Ethical Sourcing (Udemy); Doc: Fair Trade International; YouTube: Supply Chain Management
+Swift,Book: Swift Programming: The Big Nerd Ranch Guide; Course: iOS Development with Swift (Coursera); Course: Swift Masterclass (Udemy); Doc: Swift.org; YouTube: Sean Allen
+Switchgear Design,Book: Switchgear and Protection; Course: Electrical Power Systems (Coursera); Course: Medium Voltage Switchgear (Udemy); Doc: ABB Technical Library; YouTube: Engineering Mindset
+Switching Systems,Book: Telecommunication Switching Systems; Course: Network Engineering (Coursera); Course: Switching and Routing (Udemy); Doc: Cisco Learning Network; YouTube: NetworkChuck
+Synthetic Design,Book: Strategic Thinking in Synthetic Biology; Course: Synthetic Biology (Coursera); Course: Genetic Design (Udemy); Doc: Synthetic Biology Project; YouTube: Kurzgesagt
+System Analysis,Book: System Analysis and Design; Course: Systems Engineering (Coursera); Course: Business System Analysis (Udemy); Doc: INCOSE Systems Engineering; YouTube: The Engineering Mindset
+System Calibration,Book: The Calibration Handbook; Course: Metrology and Calibration (Udemy); Course: Measurement Science (Coursera); Doc: NIST Calibration Services; YouTube: Mitutoyo America
+System Integration,Book: Enterprise Integration Patterns; Course: Systems Integration (Coursera); Course: Integration Strategy (Udemy); Doc: Microsoft Azure Integration; YouTube: TechWorld with Nana
+System Modeling,Book: System Modeling and Simulation; Course: Mathematical Modeling (Coursera); Course: System Dynamics (Udemy); Doc: SimScale Help; YouTube: Steve Brunton
+System Scalability,Book: The Art of Scalability; Course: Designing Scalable Systems (Coursera); Course: Cloud Scalability (Udemy); Doc: AWS Scalability Whitepaper; YouTube: System Design Interview
+System Testing,Book: The Art of Software Testing; Course: Software Testing Specialization (Coursera); Course: Quality Assurance (Udemy); Doc: ISTQB.org; YouTube: The Testing Academy
+Systems Engineering,Book: Systems Engineering Handbook; Course: Systems Thinking (Coursera); Course: Systems Engineering Foundations (Udemy); Doc: INCOSE.org; YouTube: The Engineering Mindset
+T-SQL,Book: T-SQL Fundamentals; Course: SQL Server Masterclass (Udemy); Course: Relational Databases (Coursera); Doc: Microsoft SQL Server Docs; YouTube: Programming with Mosh
+TCP/IP Protocols,Book: TCP/IP Illustrated; Course: Computer Communications (Coursera); Course: Network Protocols (Udemy); Doc: IETF RFCs; YouTube: Computerphile
+Tariff Management,Book: Tariff Management and Policy; Course: International Trade (Coursera); Course: Import/Export Compliance (Udemy); Doc: World Customs Organization; YouTube: Logistics of Logistics
+Team Leadership,Book: Leaders Eat Last; Course: Team Leadership Specialization (Coursera); Course: Management Masterclass (Udemy); Doc: Harvard Business Review; YouTube: Simon Sinek
+Team Mentorship,Book: The Mentor's Guide; Course: Mentorship and Coaching (Coursera); Course: Effective Leadership (Udemy); Doc: Association for Talent Development; YouTube: Mel Robbins
+Tech Product Knowledge,Book: The Product Book; Course: Product Management (Coursera); Course: Tech for Non-Techies (Udemy); Doc: Product School Blog; YouTube: Product School
+Technical Auditing,Book: Technical Auditing: A Guide; Course: Internal Auditing (Coursera); Course: Quality Auditing (Udemy); Doc: ISO Audit Guidelines; YouTube: Internal Audit Guy
+Technical Blueprints,Book: Blueprints and Plans; Course: Blueprint Reading (Udemy); Course: Construction Documentation (Coursera); Doc: ANSI Drafting Standards; YouTube: Construction Drawings 101
+Technical Consulting,Book: The Trusted Advisor; Course: Management Consulting (Coursera); Course: Tech Consulting (Udemy); Doc: McKinsey Digital; YouTube: Firm Learning
+Technical Documentation,Book: Technical Writing Process; Course: Technical Writing (Coursera); Course: Documentation Mastery (Udemy); Doc: Write the Docs; YouTube: Google Technical Writing
+Technical Drawing,Book: Engineering Drawing and Design; Course: Technical Drawing Foundations (Udemy); Course: CAD Design (Coursera); Doc: Autodesk Engineering Drawing; YouTube: The Efficient Engineer
+Technical Leadership,Book: The Manager's Path; Course: Engineering Leadership (Coursera); Course: Leading Technical Teams (Udemy); Doc: LeadDev Resources; YouTube: Simon Sinek
+Technical Optimization,Book: Site Reliability Engineering; Course: Performance Optimization (Coursera); Course: Systems Optimization (Udemy); Doc: Google SRE Book; YouTube: TechWorld with Nana
+Technical Presentations,Book: Presentation Zen; Course: Technical Presentations (Coursera); Course: Public Speaking for Tech (Udemy); Doc: Toastmasters International; YouTube: The Futur
+Technical Requirements Analysis,Book: Software Requirements; Course: Business Analysis Specialization (Coursera); Course: Requirements Engineering (Udemy); Doc: IIBA BABOK Guide; YouTube: Bridging the Gap
+Technical Sales Strategy,Book: The Sales Engineer's Handbook; Course: Technical Sales (Coursera); Course: Strategic Sales (Udemy); Doc: Gong.io Sales Insights; YouTube: Winning by Design
+Technical Specifications,Book: Writing Effective Technical Specs; Course: Technical Writing (Coursera); Course: Product Documentation (Udemy); Doc: Microsoft Learn Docs; YouTube: Google Developers
+Technical Support,Book: The Guide to Technical Support; Course: Google IT Support Professional (Coursera); Course: Help Desk Support (Udemy); Doc: Microsoft Support Docs; YouTube: NetworkChuck
+Technical Troubleshooting,Book: The Art of Troubleshooting; Course: Troubleshooting Systems (Udemy); Course: IT Support (Coursera); Doc: CompTIA A+ Guides; YouTube: Eli the Computer Guy
+Technical Writing,Book: The Elements of Style; Course: Technical Writing Specialization (Coursera); Course: Professional Writing (Udemy); Doc: Google Technical Writing Guide; YouTube: TechWriter
+Telemetry Analysis,Book: Telemetry and Observability; Course: Cloud Monitoring (Coursera); Course: Data Analysis (Udemy); Doc: Grafana / Prometheus Docs; YouTube: Data Engineering Academy
+Test Case Documentation,Book: Software Testing; Course: Test Case Design (Udemy); Course: Quality Assurance (Coursera); Doc: ISTQB Testing Syllabus; YouTube: The Testing Academy
+Thermal Efficiency,Book: Thermal Engineering; Course: Thermodynamics (Coursera); Course: Energy Efficiency (Udemy); Doc: DOE Energy Reports; YouTube: Engineering Mindset
+Thermal Management,Book: Thermal Management of Electronics; Course: Heat Transfer (Coursera); Course: Cooling Systems (Udemy); Doc: Intel Thermal Design; YouTube: The Efficient Engineer
+Thermal Modeling,Book: Thermal Modeling of Power Electronics; Course: Simulation in Engineering (Coursera); Course: Thermal Simulation (Udemy); Doc: ANSYS Thermal Help; YouTube: SimScale
+Thermal Stability,Book: Thermal Stability of Polymers; Course: Materials Science (Coursera); Course: Chemical Engineering (edX); Doc: American Chemical Society; YouTube: The Efficient Engineer
+Thermodynamics,Book: Thermodynamics: An Engineering Approach; Course: Introductory Thermodynamics (Coursera); Course: Engineering Physics (Udemy); Doc: NIST Chemistry WebBook; YouTube: The Engineering Mindset
+Thin-Film Characterization,Book: Materials Characterization; Course: Nanotechnology (Coursera); Course: Thin Film Physics (edX); Doc: NIST Thin Film Characterization; YouTube: Asianometry
+Thin-Film Deposition,Book: The Science and Engineering of Microelectronic Fabrication; Course: Semiconductor Manufacturing (Coursera); Course: Thin Film Deposition (Udemy); Doc: Intel Technology Blog; YouTube: Asianometry
+Throughput Optimization,Book: The Goal; Course: Operations Management (Coursera); Course: Process Optimization (Udemy); Doc: Lean Enterprise Institute; YouTube: Gemba Academy
+Tissue Engineering,Book: Principles of Tissue Engineering; Course: Biomedical Engineering (Coursera); Course: Introduction to Bioengineering (edX); Doc: NIH Tissue Engineering; YouTube: Bionics Institute
+Tourism Trends,Book: Tourism Management; Course: Global Tourism (Coursera); Course: Tourism Trends (Udemy); Doc: UN World Tourism Organization; YouTube: National Geographic
+Traffic Flow Simulation,Book: Traffic Flow Theory; Course: Civil Engineering (Coursera); Course: Traffic Engineering (Udemy); Doc: Department of Transportation; YouTube: Practical Engineering
+Traffic Modeling,Book: Modeling and Simulation of Traffic; Course: Transportation Systems (edX); Course: Urban Planning (Coursera); Doc: FHWA Traffic Analysis; YouTube: City Beautiful
+Training,Book: The Training Design Manual; Course: Instructional Design (Coursera); Course: Effective Training (Udemy); Doc: Association for Talent Development; YouTube: Devlin Peck
+Transmission Systems,Book: Electric Power Transmission; Course: Power Systems (Coursera); Course: Transmission Line Design (Udemy); Doc: IEEE Power & Energy Society; YouTube: Engineering Mindset
+Tribology,Book: Applied Tribology; Course: Surface Engineering (Coursera); Course: Lubrication and Wear (Udemy); Doc: STLE Resources; YouTube: The Engineering Mindset
+Troubleshooting,Book: The Art of Troubleshooting; Course: IT Troubleshooting (Coursera); Course: Problem Solving (Udemy); Doc: Microsoft Support Docs; YouTube: NetworkChuck
+Turbine Layout,Book: Wind Energy Explained; Course: Renewable Energy (Coursera); Course: Wind Farm Design (Udemy); Doc: NREL Wind Research; YouTube: Real Engineering
+Turbine Operation,Book: Gas Turbine Theory; Course: Renewable Energy Systems (Coursera); Course: Turbine Engineering (Udemy); Doc: GE Gas Turbine Technical Manuals; YouTube: Engineering Mindset
+UI Components,Book: Designing Interfaces; Course: UI/UX Specialization (Coursera); Course: Modern UI Design (Udemy); Doc: Material Design / Human Interface Guidelines; YouTube: The Futur
+UX Design,Book: Don't Make Me Think; Course: Google UX Design Professional (Coursera); Course: The UX Design Course (Udemy); Doc: Nielsen Norman Group; YouTube: The Futur
+Ultra-Precision Machining,Book: Precision Machine Design; Course: Advanced Manufacturing (Udemy); Course: Precision Engineering (Coursera); Doc: NIST Precision Machining; YouTube: Titans of CNC
+Unit Testing,Book: Test Driven Development; Course: Software Testing Specialization (Coursera); Course: Unit Testing with JUnit/PyTest (Udemy); Doc: Jest / Mocha / JUnit Documentation; YouTube: Web Dev Simplified
+Urban Planning,Book: The Death and Life of Great American Cities; Course: Sustainable Cities (Coursera); Course: Urban Planning and Design (edX); Doc: American Planning Association; YouTube: City Beautiful
+Use Case Modeling,Book: Writing Effective Use Cases; Course: Requirements Engineering (Coursera); Course: Software Modeling (Udemy); Doc: Unified Modeling Language (UML) Docs; YouTube: Lucidchart
+User Management,Book: Identity and Access Management; Course: Google IT Support (Coursera); Course: Active Directory Management (Udemy); Doc: Microsoft Learn IAM; YouTube: NetworkChuck
+User Research,Book: Just Enough Research; Course: User Research and Design (Coursera); Course: UX Research Masterclass (Udemy); Doc: UX Collective; YouTube: Nielsen Norman Group
+VHDL/Verilog,Book: Digital Design (VHDL); Course: FPGA Design (Udemy); Course: Digital Logic Design (Coursera); Doc: IEEE 1364 (Verilog) Standard; YouTube: Digitally Lit
+VLSI Design,Book: Digital Integrated Circuits: A Design Perspective; Course: VLSI CAD Part I: Design (Coursera); Course: Digital VLSI Design (Udemy); Doc: IEEE Solid-State Circuits Society; YouTube: Asianometry
+Validation Protocols,Book: Establishing a Quality Assurance Program; Course: Computer System Validation (Udemy); Course: Quality Management Systems (Coursera); Doc: FDA.gov Validation Guidelines; YouTube: Compliance Online
+Validation and Verification (V&V),Book: Verification and Validation in Scientific Computing; Course: Software Testing and Verification (Coursera); Course: V&V in Engineering (edX); Doc: NASA V&V Guidebook; YouTube: The Engineering Mindset
+Valve Design,Book: Valve Selection Handbook; Course: Piping and Valve Design (Udemy); Course: Mechanical Engineering (Coursera); Doc: Fisher Valve Handbook (Emerson); YouTube: Engineering Mindset
+Vehicle Dynamics,Book: Fundamentals of Vehicle Dynamics (Gillespie); Course: Vehicle Dynamics (edX); Course: Automotive Engineering (Udemy); Doc: SAE International Technical Papers; YouTube: Engineering Explained
+Vehicle Performance,Book: Race Car Vehicle Dynamics; Course: Car Mechanics and Performance (Udemy); Course: Hybrid & Electric Vehicles (Coursera); Doc: EPA Vehicle Performance Research; YouTube: Donut Media: Science of Fast
+Vendor Management,Book: The Vendor Management Office; Course: Supply Chain Sourcing (Coursera); Course: Strategic Vendor Management (Udemy); Doc: Gartner Vendor Management; YouTube: Supply Chain Now
+Vendor Negotiation,Book: Negotiation Genius; Course: Successful Negotiation (Coursera); Course: Strategic Sales and Negotiation (Udemy); Doc: Harvard Program on Negotiation; YouTube: Chris Voss
+Vendor Selection,Book: Purchasing and Supply Chain Management; Course: Strategic Sourcing (Coursera); Course: Vendor Selection and Evaluation (Udemy); Doc: CIPS (Chartered Institute of Procurement); YouTube: Logistics of Logistics
+Version Control (Git),Book: Pro Git (Scott Chacon); Course: Version Control with Git (Coursera); Course: Git Complete (Udemy); Doc: Git-scm.com Documentation; YouTube: The Net Ninja
+Vibration Analysis,Book: Mechanical Vibrations (Rao); Course: Vibration Analysis (Udemy); Course: Dynamics and Control (Coursera); Doc: ISO 18436 Standards; YouTube: Engineering Mindset
+Voice Recognition,Book: Speech and Language Processing; Course: Natural Language Processing (Coursera); Course: Speech Recognition with Python (Udemy); Doc: Google Cloud Speech-to-Text Docs; YouTube: Stanford NLP
+Vulnerability Assessment,Book: Hacking Exposed; Course: Cybersecurity Specialization (Coursera); Course: Ethical Hacking (Udemy); Doc: OWASP Vulnerability Scanning; YouTube: Simply Cyber
+Warehouse Management,Book: Warehouse Management: A Complete Guide; Course: Supply Chain Logistics (Coursera); Course: Warehouse Operations (Udemy); Doc: ASCM (APICS) Resources; YouTube: Logistics Bureau
+Waste Management,Book: Solid Waste Engineering; Course: Waste Management (edX); Course: Circular Economy (Coursera); Doc: EPA Waste Management Guides; YouTube: Sustainability Illustrated
+Waste-to-Energy,Book: Waste-to-Energy Technologies; Course: Renewable Energy Systems (Coursera); Course: Bioenergy (edX); Doc: Waste-to-Energy Research (NREL); YouTube: Real Engineering
+Water Energy,Book: Hydropower Engineering Handbook; Course: Wind and Water Power (Coursera); Course: Renewable Energy (Udemy); Doc: International Hydropower Association; YouTube: Energy 101
+Water Purification,Book: Water Quality and Treatment; Course: Water Management (Coursera); Course: Water Treatment Basics (Udemy); Doc: EPA Drinking Water Standards; YouTube: Practical Engineering
+Water Treatment,Book: Wastewater Engineering: Treatment and Resource Recovery; Course: Water Treatment Engineering (edX); Course: Industrial Water Treatment (Udemy); Doc: Water Environment Federation; YouTube: The Engineering Mindset
+Wave/Wind Energy,Book: Wind Energy Explained; Course: Renewable Energy Specialization (Coursera); Course: Wave Energy Technology (edX); Doc: NREL Wind and Water Research; YouTube: Real Engineering
+Web Performance Optimization,Book: High Performance Browser Networking; Course: Website Performance Optimization (Udacity); Course: Page Speed Optimization (Udemy); Doc: Google Web Vitals; YouTube: Web Dev Simplified
+Well Management,Book: Oil and Gas Production Handbook; Course: Petroleum Engineering (Coursera); Course: Well Control and Intervention (Udemy); Doc: Society of Petroleum Engineers; YouTube: Energy 101
+Wind Resource Assessment,Book: Wind Resource Assessment: A Practical Guide; Course: Wind Energy (Coursera); Course: Renewable Energy Systems (Udemy); Doc: IEA Wind Energy Reports; YouTube: NREL Wind Research
+Wind Tunnel Testing,Book: Low-Speed Wind Tunnel Testing; Course: Aerodynamics (Coursera); Course: Experimental Aerodynamics (edX); Doc: NASA Glenn Wind Tunnels; YouTube: Real Engineering
+Wireless Protocols (5G/LTE),Book: 5G NR: The Next Generation Wireless Access Technology; Course: 5G Specialization (Coursera); Course: Wireless Networking (Udemy); Doc: 3GPP Specifications; YouTube: IEEE Communications Society
+Wood Composites,Book: Wood Composites (Kimberley Low); Course: Materials Science (Coursera); Course: Sustainable Materials (edX); Doc: USDA Forest Products Lab; YouTube: National Geographic
+Workflow Analysis,Book: Business Process Mapping; Course: Workflow Management (Coursera); Course: Lean Process Analysis (Udemy); Doc: Lucidchart Workflow Guides; YouTube: Lean Enterprise Institute
+Workflow Management,Book: Workflow Modeling; Course: Business Process Management (Coursera); Course: Automation with Zapier (Udemy); Doc: Atlassian Teamwork Guides; YouTube: Keep Productive
+Yield Optimization,Book: Operations Management: Optimization; Course: Six Sigma and Yield Management (Coursera); Course: Manufacturing Process Optimization (Udemy); Doc: Lean Six Sigma Institute; YouTube: Gemba Academy

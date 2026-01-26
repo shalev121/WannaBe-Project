@@ -28,13 +28,31 @@ Each transition step is enriched with:
 
 ![Role Selection Screen](assets/screenshots/input_roles.png)
 
-Users define their current role and target role either by selecting from standardized roles or by using the Semantic AI Matcher, which resolves free-text input into canonical professional roles using vector similarity.
+The system allows users to define both their current role and desired target role using two complementary mechanisms.  
+Users may select from a predefined list of standardized roles, or provide free-text input when their role does not match conventional job titles.
+
+This design explicitly addresses vocabulary mismatch in real-world career data, where equivalent roles may appear under diverse titles across organizations and industries.
 
 ---
 
 ![Semantic Matching Results](assets/screenshots/semantic__match.png)
 
-When a role is not found directly, the system presents semantically similar roles ranked by cosine similarity, allowing users to select the most appropriate canonical role.
+When free-text input is provided, the Semantic AI Matcher encodes the input using Sentence-BERT embeddings and retrieves the most semantically similar canonical roles from the FAISS index.
+
+The system presents ranked candidate roles along with similarity scores, allowing users to select the most appropriate canonical representation of their experience or goal.  
+This step ensures that downstream graph computations operate on standardized, comparable role nodes.
+
+---
+
+### Computed Career Path Overview
+
+![Computed Career Path](assets/screenshots/path_overview.png)
+
+After resolving the source and target roles, the system computes the most efficient career path using Dijkstra’s algorithm over a probabilistic directed transition graph.
+
+Each edge in the path is annotated with a likelihood score derived from empirical transition frequencies in historical job-hop data. These percentages represent the statistical feasibility of each transition based on observed professional trajectories.
+
+This screen provides a high-level summary of the recommended path. Users can proceed to a detailed strategic breakdown, where each transition is explained in depth.
 
 ---
 
@@ -42,13 +60,19 @@ When a role is not found directly, the system presents semantically similar role
 
 ![Career Roadmap Overview](assets/screenshots/roadmap_collapsed.png)
 
-The system generates a multi-step career roadmap using a probabilistic directed graph, presenting the optimal sequence of intermediate transitions toward the target role.
+The detailed roadmap decomposes the computed path into a sequence of explicit transition steps.  
+Each step represents a statistically justified intermediate milestone rather than a direct leap to the target role.
+
+This representation emphasizes that career progression is typically multi-stage and constrained by historical labor market dynamics, reinforcing the system’s data-driven approach.
 
 ---
 
 ![Expanded Transition Explanation](assets/screenshots/roadmap_expanded.png)
 
-Each transition can be expanded to reveal the strategic rationale behind the step, explaining why the move is necessary and how it functions as a seniority or skill bridge.
+Expanding a transition reveals the strategic explanation behind that step.  
+The system explains *why* the transition is necessary, framing it as a seniority bridge, responsibility expansion, or skill consolidation phase.
+
+These explanations are grounded in the structure of the transition graph and the distribution of skills across roles, ensuring that narratives reflect empirical patterns rather than generic career advice.
 
 ---
 
@@ -56,7 +80,15 @@ Each transition can be expanded to reveal the strategic rationale behind the ste
 
 ![Skill Deep Dive Modal](assets/screenshots/skill_deep_dive.png)
 
-For every transition, users can explore role-defining skills in depth. Each skill includes a definition, its importance for the transition, and curated learning resources to bridge the identified skill gap.
+For each transition, users can explore role-defining skills in depth.  
+Skills presented here are extracted through a large-scale PySpark pipeline and validated using statistical frequency filtering based on Revealed Comparative Advantage (RCA).
+
+Each skill entry includes:
+- A precise definition
+- An explanation of why the skill is critical for the transition
+- Curated learning resources for skill acquisition
+
+This component operationalizes the concept of “skill gaps” by identifying concrete, actionable differences between the source and target roles.
 
 ## System Architecture
 
